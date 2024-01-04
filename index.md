@@ -158,7 +158,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </p>
 
 
-<h2 class="blackpar_title" id="speakers">Confirmed Speakers & Panelists</h2>
+<h2 class="blackpar_title" id="speakers">Speakers & Panelists</h2>
 <p>
 {% include speakers.html %}
 </p>
