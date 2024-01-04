@@ -45,7 +45,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 
 <ul>
     <li>
-	<strong>Biological sequence design:</strong> Prediction and optimization of biological sequences, incorporating constraints and prior knowledge
+	<u>Biological sequence design</u>: Prediction and optimization of biological sequences, incorporating constraints and prior knowledge
     </li>
 	<ul>
 	    <li>
