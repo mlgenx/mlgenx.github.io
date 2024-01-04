@@ -157,7 +157,7 @@ Bear in mind that our workshop is not archival,
 but accepted papers will be hosted on the workshop website.
 </p>
 
-
+<br>
 <h2 class="blackpar_title" id="deadlines">Important Dates:</h2>
 <p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
@@ -191,6 +191,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 {% include organizers.html %}
 </p>
 
+<br>
 <!-- Technical Committee -->
 <h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
 <p>
