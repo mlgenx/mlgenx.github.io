@@ -12,12 +12,16 @@
       affiliation: Helmholtz Munich
       photo: fabian.jpg
       url: https://scholar.google.com/citations?user=sqWpn2AAAAAJ&hl=en
-- num_row: 2
-  organizers:
     - name: Maria Brbic
       affiliation: EPFL
       photo: maria.jpg
       url: https://brbiclab.epfl.ch/
+- num_row: 2
+  organizers:
+    - name: Tommaso Biancalani
+      affiliation: Genentech
+      photo: tommaso.jpg
+      url: https://www.gene.com/scientists/our-scientists/tommaso-biancalani
     - name: Charlotte Bunne
       affiliation: ETH Zurich
       photo: charlotte.jpg
@@ -26,26 +30,20 @@
       affiliation: Google
       photo: arman.jpeg
       url: https://scholar.google.com/citations?user=jjNcpoEAAAAJ&hl=en
-- num_row: 2
-  organizers:
-    - name: Tommaso Biancalani
-      affiliation: Genentech
-      photo: tommaso.jpg
-      url: https://www.gene.com/scientists/our-scientists/tommaso-biancalani
     - name: Eric Nguyen
       affiliation: Stanford
       photo: eric.png
       url: https://scholar.google.com/citations?user=66TLwGUAAAAJ&hl=en&oi=ao
-    - name: Aïcha Bentaieb
-      affiliation: Genentech
-      photo: aichabentaieb.jpeg
-      url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
 - num_row: 3
   organizers:
     - name: Chandler Squires
       affiliation: MIT
       photo: chandler.jpg
       url: https://scholar.google.com/citations?user=Nh3BtpUAAAAJ&hl=en
+    - name: Aïcha Bentaieb
+      affiliation: Genentech
+      photo: aichabentaieb.jpeg
+      url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
     - name: Sepideh Maleki
       affiliation: Genentech
       photo: sepideh.jpg
@@ -68,8 +66,6 @@
       affiliation: Mila
       photo: moksh.jpg
       url: https://mj10.github.io/
-- num_row: 5
-  organizers:
     - name: Nathaniel Diamant
       affiliation: Genentech
       photo: nate.jpg
