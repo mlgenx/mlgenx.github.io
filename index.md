@@ -43,6 +43,7 @@ We invite researchers, scientists, students, and industry professionals working 
 The scope of this workshop includes, but not limited to, the following topics.
 </p>
 
+<!--
 <ul>
     <li>
 	<u><b>Biological sequence design</b></u>: Prediction and optimization of biological sequences, incorporating constraints and prior knowledge
@@ -105,15 +106,26 @@ The scope of this workshop includes, but not limited to, the following topics.
 </ul>
 
 <h5>From first principles: AI for Genomics Exploration</h5>
+-->
 
 <ul>
     <li><b>Foundation models for genomics</b>
     </li>
-    <li><b>Interpretability</b>
+    <li><b>Biological sequence design</b>
+    </li>
+    <li><b>Interpretability and Generalizability</b>
     </li>
     <li><b>Causal representation learning</b>
     </li>
-    <li><b>Generalizability</b>
+    <li><b>Perturbative biology</b>
+    </li>
+    <li><b>Modeling long-range dependencies in sequences, single-cell and spatial omics</b>
+    </li>
+    <li><b>Integrating multimodal perturbation readouts</b>
+    </li>
+    <li><b>Active learning in genomics</b>
+    </li>
+    <li><b>New datasets and benchmarks for genomics explorations</b>
     </li>
 </ul>
 
