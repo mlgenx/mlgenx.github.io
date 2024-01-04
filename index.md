@@ -45,7 +45,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 
 <ul>
     <li>
-	<u>Biological sequence design</u>: Prediction and optimization of biological sequences, incorporating constraints and prior knowledge
+	<u><b>Biological sequence design</b></u>: Prediction and optimization of biological sequences, incorporating constraints and prior knowledge
     </li>
 	<ul>
 	    <li>
@@ -63,7 +63,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 	</ul>
 
     <li>
-	<b>Inferring cellular communication via cell states and organization in tissues:</b> Causal representation learning to model cell states and cellular communities 
+	<u><b>Inferring cellular communication via cell states and organization in tissues</b></u>: Causal representation learning to model cell states and cellular communities 
     </li>
 	<ul>
 
@@ -82,7 +82,7 @@ The scope of this workshop includes, but not limited to, the following topics.
 	</ul>
 
     <li>
-	<b>Perturbative biology:</b> Interpretable and foundation models to understand cellular responses to perturbations
+	<u><b>Perturbative biology</b></u>: Interpretable and foundation models to understand cellular responses to perturbations
     </li>
 	<ul>
 
