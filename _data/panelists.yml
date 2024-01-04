@@ -1,0 +1,28 @@
+- num_row: 1
+  speakers:
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+- num_row: 2
+  speakers:
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png
+    - name: A
+      affiliation: Google Brain
+      photo: sample.png

@@ -1,0 +1,56 @@
+{% assign rows = site.data.moderators %}
+{% for row in rows %}
+    {% assign c = 1 %}
+    <div class="row_perso">
+    {% assign mod = row.moderators.size | modulo:2 == 0 %}
+    {% if mod == 0 %}
+        {% for moderator in row.moderators %}
+            <div class="card_perso column_perso">
+              <a href="{{ moderator.url }}">
+                 <img src="/images/{{ moderator.photo }}" alt="{{ moderator.name }}" class="img_card_perso">
+              </a>
+              <div class="container_perso" >
+                <center>
+                <h6>
+                    {% if moderator.title %}
+                        <b>{{ moderator.title }}<br>{{ moderator.name }}</b>
+                    {% else %}
+                        <b>{{ moderator.name }}</b>
+                    {% endif %}
+                    <br>
+                    {{ moderator.affiliation }}
+                </h6>
+                </center>
+              </div>
+            </div>
+        {% endfor %}
+    {% else %}
+        {% for moderator in row.moderators %}
+            {% if c == 1 %}
+            {% assign style_val = "style='margin-left:13%;'" %}
+            {% else %}
+            {% assign style_val = '' %}
+            {% endif %}
+            <div class="card_perso column_perso" {{ style_val }}>
+              <a href="{{ moderator.url }}">
+                <img src="/images/{{ moderator.photo }}" alt="{{ moderator.name }}" class="img_card_perso">
+              </a>
+              <div class="container_perso" >
+                <center>
+                <h6>
+                    {% if moderator.title %}
+                        <b>{{ moderator.title }}<br>{{ moderator.name }}</b>
+                    {% else %}
+                        <b>{{ moderator.name }}</b>
+                    {% endif %}
+                    <br>
+                    {{ moderator.affiliation }}
+                </h6>
+                </center>
+              </div>
+            </div>
+            {% assign c = 2 %}
+        {% endfor %}
+    {% endif %}
+    </div>
+{% endfor %}

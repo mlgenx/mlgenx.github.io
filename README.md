@@ -1,1 +1,1 @@
-# mlgenx.github.io
+# mlgenx-workshop.github.io

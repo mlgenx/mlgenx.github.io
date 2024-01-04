@@ -1,0 +1,87 @@
+- num_row: 1
+  organizers:
+    - name: Ehsan Hajiramezanali
+      title: Dr.
+      affiliation: Genentech (BRAID)
+      photo: ehsan.jpg
+      url: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=20I_DMoAAAAJ&sortby=pubdate
+    - name: Aviv Regev
+      title: Dr.
+      affiliation: EVP, Genentech
+      photo: aviv.jpg
+      url: https://www.gene.com/scientists/our-scientists/aviv-regev
+    - name: Fabian Theis
+      title: Professor
+      affiliation: Helmholtz Munich
+      photo: fabian.jpg
+      url: https://scholar.google.com/citations?user=sqWpn2AAAAAJ\&hl=en
+- num_row: 2
+  organizers:
+    - name: Maria Brbic
+      title: Assistant Professor
+      affiliation: EPFL
+      photo: maria.jpg
+      url: https://brbiclab.epfl.ch/
+    - name: Charlotte Bunne
+      title: Dr.
+      affiliation: ETH Zurich
+      photo: charlotte.jpg
+      url: https://www.bunne.ch/
+    - name: Arman Hasanzadeh
+      title: Dr.
+      affiliation: Google
+      photo: arman.jpg
+      url: https://scholar.google.com/citations?user=jjNcpoEAAAAJ&hl=en
+- num_row: 2
+  organizers:
+    - name: Tommaso Biancalani
+      title: Dr.
+      affiliation: Genentech (BRAID)
+      photo: tommaso.jpg
+      url: https://www.gene.com/scientists/our-scientists/tommaso-biancalani
+    - name: Eric Nguyen
+      affiliation: Stanford
+      photo: eric.jpg
+      url: https://scholar.google.com/citations?user=66TLwGUAAAAJ&hl=en&oi=ao
+    - name: Aïcha Bentaieb
+      title: Dr.
+      affiliation: Genentech (BRAID)
+      photo: aichabentaieb.jpeg
+      url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
+- num_row: 3
+  organizers:
+    - name: Chandler Squires
+      affiliation: MIT
+      photo: chandler.jpg
+      url: https://scholar.google.com/citations?user=Nh3BtpUAAAAJ&hl=en
+    - name: Sepideh Maleki
+      title: Dr.
+      affiliation: Genentech (BRAID)
+      photo: sepideh.jpg
+      url: https://scholar.google.com/citations?user=JSwHqtYAAAAJ&hl=en
+    - name: Alex Tseng
+      title: Dr.
+      affiliation: Genentech (BRAID)
+      photo: alex.jpg
+      url: https://alextseng.net/
+- num_row: 4
+  organizers:
+    - name: Ying Jin
+      affiliation: Stanford
+      photo: ying.jpg
+      url: https://ying531.github.io/
+    - name: Gabriele Scalia
+      title: Dr. 
+      affiliation: Genentech (BRAID)
+      photo: gabriele_scalia.jpeg
+      url: https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it
+    - name: Moksh Jain
+      affiliation: Mila
+      photo: moksh.jpg
+      url: https://mj10.github.io/
+- num_row: 5
+  organizers:
+    - name: Nathaniel Diamant
+      affiliation: Genentech (BRAID)
+      photo: nate.jpg
+      url: https://scholar.google.com/citations?user=JYKeQIoAAAAJ&hl=en
