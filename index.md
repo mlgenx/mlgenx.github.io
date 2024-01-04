@@ -122,7 +122,6 @@ The scope of this workshop includes, but not limited to, the following topics.
 <p>
 You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/">portal</a>.
 All submissions must be anonymous for double-blind review.
-We expect each paper to be reviewed by at least three reviewers.
 The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages,
 with strict adherence to the ICLR template style,
 which can be found <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip">here</a>.
