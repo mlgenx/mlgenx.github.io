@@ -1,19 +1,15 @@
 - num_row: 1
   speakers:
     - name: Silvia Chiappa
-      title: Dr.
       affiliation: Google DeepMind
       photo: silvia.jpg
     - name: Bo Wang
-      title: Assistant Professor
       affiliation: U of Toronto
       photo: BoWang.jpg
     - name: Su-In Lee
-      title: Professor
       affiliation: U of Washington
       photo: suinlee.jpg
     - name: Juan Caicedo
-      title: Dr.
       affiliation: U of Wisconsin-Madison, Broad
       photo: juan.jpg
 
@@ -21,38 +17,30 @@
 - num_row: 2
   speakers:
     - name: Max Jaderberg
-      title: Dr.
       affiliation: CAIO, Isomorphic Labs
       photo: max.jpg
     - name: Nicola Richmond
-      title: Dr.
       affiliation: VP, BenevolentAI
       photo: nicola.jpg
     - name: Kyunghyun Cho
-      title: Associate Professor
       affiliation: NYU, Genentech
       photo: kyunghyun.jpeg
     - name: Jason Hartford
-      title: Dr.
       affiliation: Recursion
       photo: jason.jpg
 
 - num_row: 3
   speakers:
     - name: Marinka Zitnik
-      title: Associate Professor
       affiliation: Harvard University
       photo: marinka_zitnik.jpg
     - name: Lindsay Edwards
-      title: Dr.
       affiliation: CTO, Relation Therapeutics
       photo: lindsay.jpg
     - name: Bianca Dumitrascu
-      title: Dr.
       affiliation: U of Cambridge
       photo: bianca.jpg
     - name: Jure Leskovec
-      title: Professor
       affiliation: Stanford
       photo: jure.jpeg
 
