@@ -167,10 +167,11 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 
 
 <!-- Schedule -->
+<!-- 
 <h2 class="blackpar_title" id="schedule">Schedule (CET)</h2>
 <p>
 {% include schedule.html %}
-</p>
+</p>-->
 
 
 <!-- Organizers -->
