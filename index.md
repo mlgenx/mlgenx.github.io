@@ -134,7 +134,7 @@ The scope of this workshop includes but is not limited to, the following topics.
 <br>
 <h2 class="blackpar_title">Submission Instructions</h2>
 <p>
-You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/">portal</a>.
+You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">portal</a>.
 All submissions must be anonymous for double-blind review.
 The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages,
 with strict adherence to the ICLR template style,
