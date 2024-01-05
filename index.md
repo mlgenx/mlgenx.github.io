@@ -30,8 +30,8 @@ The main objective of this workshop is to bridge the gap between machine learnin
 The critical bottleneck in drug discovery is still our limited understanding of the biological mechanisms underlying diseases. Consequently, often we do not know why patients develop specific diseases, and many drug candidates fail in clinical trials.  Recent advancements in new genomics platforms and the development of diverse omics datasets have ignited a growing interest in the study of this field. In addition, machine learning plays a pivotal role in improving success rates in language processing, image analysis, and molecular design. The boundaries between these two domains are becoming increasingly blurred, particularly with the emergence of modern foundation models that stand at the intersection of data-driven approaches, self-supervised techniques, and genomic explorations. This workshop aims to elucidate the intricate relationship between genomics, target identification, and fundamental machine learning methods. By strengthening the connection between machine learning and target identification via genomics, new possibilities for interdisciplinary research in these areas will emerge. 
 </p>
 <p>
-The goal of this workshop is bring together communities at the intersection of machine learning and genomics to discuss areas of interaction and explore possibilities for future areas of research.
-Through this workshop, participants will gain valuable insights into the synergies between ML and genomics research, and help to refine the next-generation of applied and theoretical ML methods for target identification. We look forward to your participation in this exciting discourse on the future of (founcational) genomics and AI.
+The goal of this workshop is to bring together communities at the intersection of machine learning and genomics to discuss areas of interaction and explore possibilities for future areas of research.
+During this workshop, participants will gain valuable insights into the synergies between ML and genomics research, and help refine the next generation of applied and theoretical ML methods for target identification. We look forward to your participation in this exciting discourse on the future of (foundational) genomics and AI.
 </p>
 
 <br>
@@ -40,7 +40,7 @@ Through this workshop, participants will gain valuable insights into the synergi
 
 <p>
 We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
-The scope of this workshop includes, but not limited to, the following topics.
+The scope of this workshop includes but is not limited to, the following topics.
 </p>
 
 <!--
@@ -126,6 +126,9 @@ The scope of this workshop includes, but not limited to, the following topics.
     <li><b>Active learning in genomics</b>
     </li>
     <li><b>New datasets and benchmarks for genomics explorations</b>
+    </li>
+    </li>
+    <li><b>Multimodal representation learning</b>
     </li>
 </ul>
 
