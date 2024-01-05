@@ -127,7 +127,6 @@ The scope of this workshop includes but is not limited to, the following topics.
     </li>
     <li><b>New datasets and benchmarks for genomics explorations</b>
     </li>
-    </li>
     <li><b>Multimodal representation learning</b>
     </li>
 </ul>
