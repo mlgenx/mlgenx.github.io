@@ -26,7 +26,7 @@
       affiliation: Google
       photo: arman.jpeg
       url: https://scholar.google.com/citations?user=jjNcpoEAAAAJ&hl=en
-- num_row: 2
+- num_row: 3
   organizers:
     - name: Tommaso Biancalani
       affiliation: Genentech
@@ -40,7 +40,7 @@
       affiliation: Genentech
       photo: aichabentaieb.jpeg
       url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
-- num_row: 3
+- num_row: 4
   organizers:
     - name: Chandler Squires
       affiliation: MIT
@@ -54,7 +54,7 @@
       affiliation: Genentech
       photo: alex.jpg
       url: https://alextseng.net/
-- num_row: 4
+- num_row: 5
   organizers:
     - name: Ying Jin
       affiliation: Stanford
@@ -68,7 +68,7 @@
       affiliation: Mila
       photo: moksh.jpg
       url: https://mj10.github.io/
-- num_row: 5
+- num_row: 6
   organizers:
     - name: Nathaniel Diamant
       affiliation: Genentech
