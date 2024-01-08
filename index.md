@@ -15,7 +15,7 @@ layout: home
 
 <br>
 <p>
-The main objective of this workshop is to bridge the gap between machine learning (ML) and (functional) genomics, focusing on target identification---a pivotal aspect of drug discovery. Our goal is to explore this challenging aspect of modern drug development, where we aim to identify biological targets that play a critical role in modulating diseases. We will delve into the intersection of ML and genomics, with a specific focus on areas where the availability of data has expanded due to emerging technologies (e.g., large-scale genomic screens, single cell, and spatial omics platforms). From a biological perspective, our discussions will encompass sequence design, molecular perturbations, single cell and, spatial omics, shedding light on key biological questions in target identification. On the ML front, we aim to address topics such as interpretability, foundation models for genomics/biology, generalizability, and causal discovery, emphasizing the significance of ML in advancing target identification.</p>
+The main objective of this workshop is to bridge the gap between machine learning (ML) and functional genomics (Gen), focusing on target identification---a pivotal aspect of drug discovery. Our goal is to explore this challenging aspect of modern drug development, where we aim to identify biological targets that play a critical role in modulating diseases. We will delve into the intersection of ML and genomics, with a specific focus on areas where the availability of data has expanded due to emerging technologies (e.g., large-scale genomic screens, single cell, and spatial omics platforms). From a biological perspective, our discussions will encompass sequence design, molecular perturbations, single cell, and spatial omics, shedding light on key biological questions in target identification. On the ML front, we aim to address topics such as interpretability, foundation models for genomics/biology, generalizability, and causal discovery, emphasizing the significance of ML in advancing target identification.</p>
 
 <br>
 
@@ -40,7 +40,7 @@ During this workshop, participants will gain valuable insights into the synergie
 
 <p>
 We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
-The scope of this workshop includes but is not limited to, the following topics.
+The scope of this workshop includes but is not limited to the following topics.
 </p>
 
 <!--
@@ -113,11 +113,11 @@ The scope of this workshop includes but is not limited to, the following topics.
     </li>
     <li><b>Biological sequence design</b>
     </li>
-    <li><b>Interpretability and Generalizability</b>
+    <li><b>Interpretability and Generalizability in genomics</b>
     </li>
     <li><b>Causal representation learning</b>
     </li>
-    <li><b>Perturbative biology</b>
+    <li><b>Perturbation biology</b>
     </li>
     <li><b>Modeling long-range dependencies in sequences, single-cell and spatial omics</b>
     </li>
@@ -145,7 +145,7 @@ Authors may submit up to 100 MB of supplementary materials separately.
 Authors are highly encouraged to submit their code for reproducibility.
 </p>
 <p>
-According to the ICLR workshop guidelines, we do not encourage the
+According to the ICLR workshop guidelines, we do not accept the
 re-submission of already-published papers,
 but you are allowed to submit ArXiv pre-prints or those currently under submission.
 Moreover, a work that is presented at the ICLR main conference should not appear in a workshop.
