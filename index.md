@@ -129,6 +129,8 @@ The scope of this workshop includes but is not limited to the following topics.
     </li>
     <li><b>Multimodal representation learning</b>
     </li>
+    <li><b>Uncertainty quantification</b>
+    </li>
 </ul>
 
 <br>
