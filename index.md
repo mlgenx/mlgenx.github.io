@@ -133,6 +133,8 @@ The scope of this workshop includes but is not limited to the following topics.
     </li>
     <li><b>Uncertainty quantification</b>
     </li>
+    <li><b>Graph neural network and knowledge graph</b>
+    </li>
     <li><b>New datasets and benchmarks for genomics explorations</b>
     </li>
 </ul>
