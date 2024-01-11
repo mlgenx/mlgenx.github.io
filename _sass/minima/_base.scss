@@ -39,7 +39,7 @@ b {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
+  background-color: gray;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -229,7 +229,7 @@ pre {
 
 
 .inverted {
-  background-color: $text-color;
+  background-color: #text-color;
   color: $background-color;
 }
 
