@@ -15,7 +15,7 @@ layout: home
 
 <br>
 <p>
-The main objective of this workshop is to bridge the gap between machine learning (ML) and functional genomics (Gen), focusing on target identification---a pivotal aspect of drug discovery. Our goal is to explore this challenging aspect of modern drug development, where we aim to identify biological targets that play a critical role in modulating diseases. We will delve into the intersection of ML and genomics, with a specific focus on areas where the availability of data has expanded due to emerging technologies (e.g., large-scale genomic screens, single cell, and spatial omics platforms). From a biological perspective, our discussions will encompass sequence design, molecular perturbations, single cell, and spatial omics, shedding light on key biological questions in target identification. On the ML front, we aim to address topics such as interpretability, foundation models for genomics/biology, generalizability, and causal discovery, emphasizing the significance of ML in advancing target identification.</p>
+The main objective of this workshop is to bridge the gap between machine learning (ML) and functional genomics (Gen), focusing on target identification---a pivotal aspect of drug discovery. Our goal is to explore this challenging aspect of modern drug development, where we aim to identify biological targets that play a critical role in modulating diseases. We will delve into the intersection of ML and genomics-related topics, with a specific focus on areas where the availability of data has expanded due to emerging technologies (e.g., large-scale genomic screens, single cell, and spatial omics platforms). From a biological perspective, our discussions will encompass sequence design, molecular perturbations, single cell, and spatial omics, shedding light on key biological questions in target identification. On the ML front, we aim to address topics such as interpretability, foundation models for genomics/biology, generalizability, and causal discovery, emphasizing the significance of ML in advancing target identification.</p>
 
 <p> Stay tuned by following us on <a href="https://twitter.com/MLGenX">Twitter</a>.
 </p>
@@ -33,7 +33,7 @@ The critical bottleneck in drug discovery is still our limited understanding of 
 </p>
 <p>
 The goal of this workshop is to bring together communities at the intersection of machine learning and genomics to discuss areas of interaction and explore possibilities for future areas of research.
-During this workshop, participants will gain valuable insights into the synergies between ML and genomics research, and help refine the next generation of applied and theoretical ML methods for target identification. We look forward to your participation in this exciting discourse on the future of (foundational) genomics and AI.
+During this workshop, participants will gain valuable insights into the synergies between ML and genomics-related research, and help refine the next generation of applied and theoretical ML methods for target identification. We look forward to your participation in this exciting discourse on the future of (foundational) genomics and AI.
 </p>
 
 <br>
@@ -133,11 +133,17 @@ The scope of this workshop includes but is not limited to the following topics.
     </li>
     <li><b>Uncertainty quantification</b>
     </li>
+    <li><b>Experimental design for Biology</b>
+    </li>
     <li><b>Graph neural network and knowledge graph</b>
     </li>
     <li><b>New datasets and benchmarks for genomics explorations</b>
     </li>
 </ul>
+
+<p>
+Please note that both contributions introducing new ML methods to existing problems as well as those highlighting and explaining open problems are welcome to submit their papars. 
+We encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
 
 <br>
 <h2 class="blackpar_title">Submission Instructions</h2>
