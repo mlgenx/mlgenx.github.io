@@ -143,7 +143,7 @@ Please note that both contributions introducing new ML methods to existing probl
 We encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
 
 <br>
-<h2 class="blackpar_title">Submission Instructions</h2>
+<h3 class="blackpar_title">Submission Instructions</h3>
 <p>
 You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">portal</a>.
 All submissions must be anonymous for double-blind review.
@@ -171,7 +171,7 @@ but accepted papers will be hosted on the workshop website.
 </p>
 
 <br>
-<h2 class="blackpar_title" id="deadlines">Important Dates:</h2>
+<h3 class="blackpar_title" id="deadlines">Important Dates:</h3>
 <p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
