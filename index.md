@@ -12,6 +12,8 @@ layout: home
 </div>
 
 
+<!--starts inverted colors-->
+<div class="inverted">
 
 <br>
 <p>
@@ -23,8 +25,6 @@ The main objective of this workshop is to bridge the gap between machine learnin
 
 
 
-<!--starts inverted colors-->
-<div class="inverted">
 
 <br><br>
 <h2 class="blackpar_title" id="overview">Overview</h2>
