@@ -22,7 +22,7 @@ $table-text-color:      $text-color !default;
 $table-zebra-color:     lighten($background-color, 4%) !default;
 $table-header-bg-color: lighten($background-color, 10%) !default;
 $table-header-border:   lighten($background-color, 21%) !default;
-$table-border-color:    $border-color-01 !default;
+$table-border-color:    #FBFCFC!default;
 
 
 // Syntax highlighting styles should be adjusted appropriately for every "skin"
