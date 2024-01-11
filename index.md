@@ -133,6 +133,8 @@ The scope of this workshop includes but is not limited to the following topics.
     </li>
     <li><b>Uncertainty quantification</b>
     </li>
+    <li><b>Optimal transport</b>
+    </li>
     <li><b>Experimental design for Biology</b>
     </li>
     <li><b>Graph neural network and knowledge graph</b>
