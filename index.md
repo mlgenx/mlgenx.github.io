@@ -8,7 +8,7 @@
 layout: home
 ---
 <div style="display: flex; align-items: center; justify-content: center; background: url('images/header.jpg') no-repeat; background-size: cover; user-select: none; height: 600px; padding: 0;">
-    <h1 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2; text-shadow: 0px 0px 5px black; color:#23e2ed">Machine Learning for Genomics Explorations (MLGenX)</h1>
+    <h1 class="blackpar_title" style="text-align: center; font-weight: bold; line-height: 1.2; text-shadow: 0px 0px 5px black; color:#CCCCFF">Machine Learning for Genomics Explorations (MLGenX)</h1>
 </div>
 
 
