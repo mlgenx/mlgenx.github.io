@@ -12,17 +12,14 @@ layout: home
 </div>
 
 
-<!--starts inverted2 colors-->
-<div class="inverted2">
+<!--starts inverted colors-->
+<div class="inverted">
 
 <br>
 <p>
 The main objective of this workshop is to bridge the gap between machine learning (ML) and functional genomics (Gen), focusing on target identification---a pivotal aspect of drug discovery. Our goal is to explore this challenging aspect of modern drug development, where we aim to identify biological targets that play a critical role in modulating diseases. We will delve into the intersection of ML and genomics-related topics, with a specific focus on areas where the availability of data has expanded due to emerging technologies (e.g., large-scale genomic screens, single cell, and spatial omics platforms). From a biological perspective, our discussions will encompass sequence design, molecular perturbations, single cell, and spatial omics, shedding light on key biological questions in target identification. On the ML front, we aim to address topics such as interpretability, foundation models for genomics/biology, generalizability, and causal discovery, emphasizing the significance of ML in advancing target identification.</p>
 
 
-
-<!--starts inverted colors-->
-<div class="inverted">
 
 <br><br>
 <h2 class="blackpar_title" id="overview">Overview</h2>
