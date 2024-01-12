@@ -143,8 +143,7 @@ We encourage submissions related to application of molecular biology, including 
 
 <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
-Similar to ICLR main conference, submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.  Having papers on arxiv is allowed per the dual submission policy outlined below.  
-
+Similar to ICLR main conference, submissions will be double blind.  
 We use <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 6 pages for the main text of the submission, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip">ICLR template style</a>.
 </p>
 <p>
