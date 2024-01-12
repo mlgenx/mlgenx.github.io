@@ -138,12 +138,12 @@ We consider a broad range of subject areas including but not limited to the foll
 </ul>
 
 <p>
-Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome to submit their papars. 
-We encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
+Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
+We also encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
 
 <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
-Similar to ICLR main conference, submissions will be double blind.  
+Similar to the main ICLR conference, submissions will be double blind.  
 We use <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 6 pages for the main text of the submission, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip">ICLR template style</a>.
 </p>
 <p>
