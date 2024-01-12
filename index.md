@@ -36,8 +36,7 @@ During this workshop, participants will gain valuable insights into the synergie
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
 <p>
-We invite researchers, scientists, students, and industry professionals working in the domains of artificial intelligence, machine learning, computational biology, bioinformatics, and related areas to submit their original research or review papers.
-The scope of this workshop includes but is not limited to the following topics.
+We consider a broad range of subject areas including but not limited to the following topics:
 </p>
 
 <!--
@@ -139,34 +138,20 @@ The scope of this workshop includes but is not limited to the following topics.
 </ul>
 
 <p>
-Please note that both contributions introducing new ML methods to existing problems as well as those highlighting and explaining open problems are welcome to submit their papars. 
+Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome to submit their papars. 
 We encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
 
 <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
-You are invited to submit your papers in our OpenReview submission <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">portal</a>.
-All submissions must be anonymous for double-blind review.
-The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages,
-with strict adherence to the ICLR template style,
-which can be found <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip">here</a>.
+Similar to ICLR main conference, submissions will be double blind: reviewers cannot see author names when conducting reviews, and authors cannot see reviewer names.  Having papers on arxiv is allowed per the dual submission policy outlined below.  
+
+We use <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 6 pages for the main text of the submission, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip">ICLR template style</a>.
 </p>
 <p>
-Authors may submit up to 100 MB of supplementary materials separately.
-Authors are highly encouraged to submit their code for reproducibility.
+Submissions that are identical to versions that have been previously published, or accepted to the main ICLR conference are not allowed. However, papers that cite previous related work by the authors and papers that have appeared on non-peer reviewed websites (like arXiv) do not violate the policy. Submission of the paper to archival repositories such as arXiv is allowed during the review period.
 </p>
 <p>
-According to the ICLR workshop guidelines, we do not accept the
-re-submission of already-published papers,
-but you are allowed to submit ArXiv pre-prints or those currently under submission.
-Moreover, a work that is presented at the ICLR main conference should not appear in a workshop.
-Please be sure to indicate conflicts of interest for all authors on your paper.
-</p>
-<p>
-To encourage higher quality submissions, we will offer <b>Best Paper</b> Award(s)
-based on nomination by the reviewers and extensive discussions among the chairs.
-Furthermore, outstanding submissions will also be selected for oral presentations.
-Bear in mind that our workshop is not archival,
-but accepted papers will be hosted on the workshop website.
+We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
 </p>
 
 <h3 class="blackpar_title" id="dates">Important Dates</h3>
