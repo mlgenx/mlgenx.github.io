@@ -8,13 +8,13 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+            <li class="p-name">&nbsp;&nbsp;{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li>Email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            <li>&nbsp;&nbsp;&nbsp;&nbsp;Email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
           {% if site.author.twitter -%}
-            <li>Twitter: <a class="u-email" href="{{ site.author.twitter}}">@MLGenX</a></li>
+            <li>&nbsp;&nbsp;&nbsp;&nbsp;Twitter: <a class="u-email" href="{{ site.author.twitter}}">@MLGenX</a></li>
           {%- endif %}
         </ul>
       {%- endif %}
