@@ -18,12 +18,12 @@ layout: home
 <br>
 <p>
 The main objective of this workshop is to bridge the gap between machine learning (ML) and functional genomics (Gen), focusing on target identification---a pivotal aspect of drug discovery. Our goal is to explore this challenging aspect of modern drug development, where we aim to identify biological targets that play a critical role in modulating diseases. We will delve into the intersection of ML and genomics-related topics, with a specific focus on areas where the availability of data has expanded due to emerging technologies (e.g., large-scale genomic screens, single cell, and spatial omics platforms). From a biological perspective, our discussions will encompass sequence design, molecular perturbations, single cell, and spatial omics, shedding light on key biological questions in target identification. On the ML front, we aim to address topics such as interpretability, foundation models for genomics/biology, generalizability, and causal discovery, emphasizing the significance of ML in advancing target identification.</p>
-
+<br>
 </div>
 
 <!--starts inverted colors-->
 <div class="inverted">
-<br><br>
+<br>
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <p>
 The critical bottleneck in drug discovery is still our limited understanding of the biological mechanisms underlying diseases. Consequently, often we do not know why patients develop specific diseases, and many drug candidates fail in clinical trials.  Recent advancements in new genomics platforms and the development of diverse omics datasets have ignited a growing interest in the study of this field. In addition, machine learning plays a pivotal role in improving success rates in language processing, image analysis, and molecular design. The boundaries between these two domains are becoming increasingly blurred, particularly with the emergence of modern foundation models that stand at the intersection of data-driven approaches, self-supervised techniques, and genomic explorations. This workshop aims to elucidate the intricate relationship between genomics, target identification, and fundamental machine learning methods. By strengthening the connection between machine learning and target identification via genomics, new possibilities for interdisciplinary research in these areas will emerge. 
