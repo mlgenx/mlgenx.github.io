@@ -155,11 +155,11 @@ Submissions that are identical to versions that have been previously published, 
 We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
 </p>
 
-
-#<h3 class="blackpar_title">Call for Reviewers</h3>
-#<p>
-#We are looking for reviewers with expertise in machine learning or computational biology. If you are #interested in joining us, kindly complete this <a href="https://forms.gle/tZoUCQJXYHVjSe6Z8">form</a>.
-#</p>
+<!--
+<h3 class="blackpar_title">Call for Reviewers</h3>
+<p>
+We are looking for reviewers with expertise in machine learning or computational biology. If you are interested in joining us, kindly complete this <a href="https://forms.gle/tZoUCQJXYHVjSe6Z8">form</a>.
+</p> -->
 
 <h3 class="blackpar_title" id="dates">Important Dates</h3>
 <p>
