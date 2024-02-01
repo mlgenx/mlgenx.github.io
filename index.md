@@ -166,8 +166,8 @@ We are looking for reviewers with expertise in machine learning or computational
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <li>Submission Deadline: February 4, 2024</li>
-    <li>Acceptance Notification (tentative): March 1, 2024</li>
+    <li>Submission Deadline: <del> February 4 </del> <span style="color: #D2042D">February 8</span>, 2024</li>
+    <li>Acceptance Notification: March 3, 2024</li>
     <li>Workshop Date: <b>Saturday, May 11, 2024</b> (in-person)</li>
 </ul>
 </p>
