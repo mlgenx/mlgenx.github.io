@@ -151,6 +151,7 @@ We use <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab
 <p>
 Submissions that are identical to versions that have been previously published, or accepted to the main ICLR conference are not allowed. However, papers that cite previous related work by the authors and papers that have appeared on non-peer reviewed websites (like arXiv) do not violate the policy. Submission of the paper to archival repositories such as arXiv is allowed during the review period.
 </p>
+<p>Note:<span style="color: #D2042D"> Authors are permitted to submit works that are currently under review by other venues. Additionally, accepted papers are not considered archival and can be subsequently published in other conferences or journals.</span>
 <p>
 We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
 </p>
