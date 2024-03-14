@@ -143,6 +143,7 @@ We consider a broad range of subject areas including but not limited to the foll
 Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
 We also encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
 
+<!--
 <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
 Similar to the main ICLR conference, submissions will be double blind.  
@@ -159,6 +160,7 @@ We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be
 </p>
 
 <p> <b>Note:</b> Official reviews are anonymous, and unlike the main ICLR conference track, the papers and reviews are not made public until acceptance!</p>
+-->
 
 <!--
 <h3 class="blackpar_title">Call for Reviewers</h3>
@@ -171,8 +173,9 @@ We are looking for reviewers with expertise in machine learning or computational
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <li>Submission Deadline: <del> February 4 </del> <span style="color: #D2042D">February 8</span>, 2024</li>
-    <li>Acceptance Notification: March 3, 2024</li>
+    <li>Submission Deadline: <del> February 8, 2024 </del></li> 
+    <li>Acceptance Notification: <del> March 3, 2024 </del> </li>
+    <li>Camera-Ready Deadline: <del> April 26, 2024 </del> </li>
     <li>Workshop Date: <b>Saturday, May 11, 2024</b> (in-person)</li>
 </ul>
 </p>
