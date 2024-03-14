@@ -180,6 +180,15 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </ul>
 </p>
 
+<h3 class="blackpar_title">Workshop Registration</h3>
+<p>
+Whether you're a seasoned professional or a curious enthusiast, all are welcome to attend! Don't worry if you don't have an accepted paper – participation is open to everyone.</p>
+
+<p> If you have already registered for ICLR, you can join us at the MLGenX workshop. However, if you're solely interested in the workshop, you can still participate in the MLGenX workshop by registering for the "Saturday Workshop 1 Day Pass". Please visit <a href="https://iclr.cc/Register/view-registration">this link</a> to secure your spot. </p>
+
+<p>We look forward to meeting you in Vienna!
+</p>
+
 <br>
 <h2 class="blackpar_title" id="speakers">Speakers & Panelists</h2>
 <p>
