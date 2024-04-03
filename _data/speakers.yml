@@ -38,10 +38,10 @@
 
 - num_row: 3
   speakers:
-    - name: Jure Leskovec
-      affiliation: Stanford
-      photo: jure.jpeg
-      url: https://cs.stanford.edu/people/jure/
+    - name: Žiga Avsec
+      affiliation: Google DeepMind
+      photo: ziga.jpeg
+      url: https://scholar.google.de/citations?user=gojWHbQAAAAJ&hl=en
     - name: Marinka Zitnik
       affiliation: Harvard University
       photo: marinka_zitnik.jpg
