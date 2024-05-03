@@ -6,7 +6,9 @@
 	{% if mod == 0 %}
 		{% for speaker in row.speakers %}
 			<div class="card_perso column_perso">
-			  <img src="/images/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img_card_perso">
+			  <a href="{{ speaker.url }}">
+			    <img src="/images/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img_card_perso">
+			  </a>
 			  <div class="container_perso">
 				<center>
 				<h6>
@@ -26,7 +28,9 @@
 			{% assign style_val = '' %}
 			{% endif %}
 			<div class="card_perso column_perso" {{ style_val }}>
-			  <img src="/images/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img_card_perso">
+			  <a href="{{ speaker.url }}">
+			    <img src="/images/{{ speaker.photo }}" alt="{{ speaker.name }}" class="img_card_perso">
+			  </a>
 			  <div class="container_perso">
 				<center>
 				<h6>
