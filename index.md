@@ -198,7 +198,7 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 
 
 <!-- Schedule -->
-<!-- 
+<-- 
 <h2 class="blackpar_title" id="schedule">Schedule (CET)</h2>
 <p>
 {% include schedule.html %}
