@@ -19,7 +19,7 @@
   Is_paper: false
   Whole_line: false
   
-- Title: (<b>Oral Paper</b>) DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements
+- Title: "(<b>Oral Paper</b>) DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements"
   Time: 10:40 AM - 11:00 AM
   Presenter: Luca Pinello
   Is_paper: true
@@ -67,7 +67,7 @@
   Is_paper: true
   Whole_line: false
   
-- Title: (<b>Invited Speaker</b>) Evo: Long-context modeling from molecular to genome scale
+- Title: "(<b>Invited Speaker</b>) Evo: Long-context modeling from molecular to genome scale"
   Time: 04:20 PM - 04:55 PM
   Presenter: Brian Hie
   Is_paper: false
