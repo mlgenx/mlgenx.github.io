@@ -4,9 +4,9 @@
 {% else %}
 {% assign one_third_size = tc_members.size | divided_by: 3 %}
 {% assign two_third_size = one_third_size | times: 2 %}
-<table style="color: #111111; table-layout: fixed; width: 100%">
+<table style="color: #111111">
 	<tr>
-		<td width="(100/3)%">
+		<td">
 			<ul>
 				{% for member in tc_members %}
 					{% if forloop.index0 <= one_third_size %}
@@ -15,7 +15,7 @@
 				{% endfor %}
 			</ul>
 		</td>
-		<td width="(100/3)%">
+		<td>
 			<ul>
 				{% for member in tc_members %}
 					{% if forloop.index0 > one_third_size and forloop.index0 <= two_third_size %}
@@ -24,7 +24,7 @@
 				{% endfor %}
 			</ul>
 		</td>
-		<td width="(100/3)%">
+		<td>
 			<ul>
 				{% for member in tc_members %}
 					{% if forloop.index0 > two_third_size %}
