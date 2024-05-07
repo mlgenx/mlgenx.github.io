@@ -1,8 +1,7 @@
 - Title: <b>Opening Remarks</b>
   Time: 09:00 AM - 09:15 AM
   Whole_line: true
-  Presenter: Pascal Poupart
-  
+    
 - Title: (<b>Invited Speaker</b>) Functional Causal Bayesian Optimization and DiscoGen for Learning Optimal Interventions and Inferring Gene Regulatory Networks
   Time: 09:15 AM - 09:50 AM
   Presenter: Silvia Chiappa
