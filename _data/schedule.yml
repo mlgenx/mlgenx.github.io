@@ -1,95 +1,95 @@
 - Title: <b>Opening Remarks</b>
- Time: 09:00 AM - 09:15 AM
- Whole_line: True
+  Time: 09:00 AM - 09:15 AM
+  Whole_line: True
 
 - Title: (<b>Invited Speaker</b>) Functional Causal Bayesian Optimization and DiscoGen for Learning Optimal Interventions and Inferring Gene Regulatory Networks
- Time: 09:15 AM - 09:50 AM
- Presenter: Silvia Chiappa
- Is_paper: false
- Whole_line: false
- # Bio: TBD
- Abstract: Advances in scientific disciplines such as biology and medicine require solving causal problems such as learning optimal interventions or inferring causal structure. In this talk, I will introduce Functional Causal Bayesian Optimization, a graph-based sequential decision making method that considers contextual interventions, and DiscoGen, a supervised transformer-based method that enables inferring large and cyclic gene regulatory networks.
+  Time: 09:15 AM - 09:50 AM
+  Presenter: Silvia Chiappa
+  Is_paper: false
+  Whole_line: false
+  # Bio: TBD
+  Abstract: Advances in scientific disciplines such as biology and medicine require solving causal problems such as learning optimal interventions or inferring causal structure. In this talk, I will introduce Functional Causal Bayesian Optimization, a graph-based sequential decision making method that considers contextual interventions, and DiscoGen, a supervised transformer-based method that enables inferring large and cyclic gene regulatory networks.
 
 - Title: <b>Coffee Break</b>
  Time: 09:50 AM - 10:00 AM
  Whole_line: True
 
 - Title: (<b>Invited Speaker</b>) Leveraging (natural) language models for biology
- Time: 10:00 AM - 10:35 AM
- Presenter: James Y Zou
- Is_paper: false
- Whole_line: false
- # Bio: TBD
- # Abstract:
+  Time: 10:00 AM - 10:35 AM
+  Presenter: James Y Zou
+  Is_paper: false
+  Whole_line: false
+  # Bio: TBD
+  # Abstract:
 
 - Title: (<b>Oral Paper</b>) DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements
- Time: 10:40 AM - 11:00 AM
- Presenter: Luca Pinello
- Is_paper: true
- Whole_line: false
- # Authors: ABC DEF · John Doe · Jane Doe
- # Abstract:
+  Time: 10:40 AM - 11:00 AM
+  Presenter: Luca Pinello
+  Is_paper: true
+  Whole_line: false
+  # Authors: ABC DEF · John Doe · Jane Doe
+  # Abstract:
 
 - Title: (<b>Oral Paper</b>) Dirichlet flow matching with applications to DNA sequence design
- Time: 11:05 AM - 11:25 AM
- Presenter: Gabriele Corso
- Is_paper: true
- Whole_line: false
- # Authors: ABC DEF · John Doe · Jane Doe
- # Abstract:
+  Time: 11:05 AM - 11:25 AM
+  Presenter: Gabriele Corso
+  Is_paper: true
+  Whole_line: false
+  # Authors: ABC DEF · John Doe · Jane Doe
+  # Abstract:
 
 - Title: <b>Break and Poster Setup</b>
- Time: 11:25 AM - 11:40 AM
- Whole_line: True
+  Time: 11:25 AM - 11:40 AM
+  Whole_line: True
 
 - Title: <b>Poster Session and Lunch (provided)</b>
- Time: 11:40 AM - 01:40 PM
- Whole_line: True
+  Time: 11:40 AM - 01:40 PM
+  Whole_line: True
 
 - Title: <b>Panel Discussion</b>
- Time: 01:40 PM - 02:40 PM
- Presenter: Kyunghyun Cho · Lindsay Edwards · Nicola Richmond · Tommaso Biancalani
- Is_paper: false
- Whole_line: false
- # Bio: TBD
- # Abstract:
+  Time: 01:40 PM - 02:40 PM
+  Presenter: Kyunghyun Cho · Lindsay Edwards · Nicola Richmond · Tommaso Biancalani
+  Is_paper: false
+  Whole_line: false
+  # Bio: TBD
+  # Abstract:
 
 - Title: (<b>Invited Speaker</b>) Efficiently detecting interactions from high dimensional observations of pairwise perturbations
- Time: 01:45 PM - 03:20 PM
- Presenter: Jason Hartford
- Is_paper: false
- Whole_line: false
- # Bio: TBD
- # Abstract:
+  Time: 01:45 PM - 03:20 PM
+  Presenter: Jason Hartford
+  Is_paper: false
+  Whole_line: false
+  # Bio: TBD
+  # Abstract:
 
 - Title: <b>Coffee Break</b>
- Time: 03:20 PM - 03:35 PM
- Whole_line: True
+  Time: 03:20 PM - 03:35 PM
+  Whole_line: True
 
 - Title: (<b>Oral Paper</b>) Season combinatorial intervention predictions with Salt & Peper
- Time: 03:35 PM - 03:55 PM
- Presenter: Thomas Gaudelet
- Is_paper: true
- Whole_line: false
- # Authors: ABC DEF · John Doe · Jane Doe
- # Abstract:
+  Time: 03:35 PM - 03:55 PM
+  Presenter: Thomas Gaudelet
+  Is_paper: true
+  Whole_line: false
+  # Authors: ABC DEF · John Doe · Jane Doe
+  # Abstract:
 
 - Title: (<b>Oral Paper</b>) A mechanistically interpretable neural-network architecture for discovery of regulatory genomics
- Time: 03:55 PM - 04:15 PM
- Presenter: Alex M Tseng
- Is_paper: true
- Whole_line: false
- # Authors: ABC DEF · John Doe · Jane Doe
- # Abstract:
+  Time: 03:55 PM - 04:15 PM
+  Presenter: Alex M Tseng
+  Is_paper: true
+  Whole_line: false
+  # Authors: ABC DEF · John Doe · Jane Doe
+  # Abstract:
 
 - Title: (<b>Invited Speaker</b>) Evo: Long-context modeling from molecular to genome scale
- Time: 04:20 PM - 04:55 PM
- Presenter: Brian Hie
- Is_paper: false
- Whole_line: false
+  Time: 04:20 PM - 04:55 PM
+  Presenter: Brian Hie
+  Is_paper: false
+  Whole_line: false
  # Bio: TBD
  # Abstract:
 
 - Title: <b>Closing Remarks</b>
- Time: 04:55 PM - 05:00 PM
- Whole_line: True
+  Time: 04:55 PM - 05:00 PM
+  Whole_line: True
