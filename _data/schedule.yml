@@ -7,7 +7,6 @@
   Presenter: Silvia Chiappa
   Is_paper: false
   Whole_line: false
-  # Bio: TBD
   Abstract: Advances in scientific disciplines such as biology and medicine require solving causal problems such as learning optimal interventions or inferring causal structure. In this talk, I will introduce Functional Causal Bayesian Optimization, a graph-based sequential decision making method that considers contextual interventions, and DiscoGen, a supervised transformer-based method that enables inferring large and cyclic gene regulatory networks.
   
 - Title: <b>Coffee Break</b>
@@ -19,24 +18,18 @@
   Presenter: James Y Zou
   Is_paper: false
   Whole_line: false
-  # Bio: TBD
-  # Abstract:
   
 - Title: (<b>Oral Paper</b>) DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements
   Time: 10:40 AM - 11:00 AM
   Presenter: Luca Pinello
   Is_paper: true
   Whole_line: false
-  # Authors: ABC DEF · John Doe · Jane Doe
-  # Abstract:
   
 - Title: (<b>Oral Paper</b>) Dirichlet flow matching with applications to DNA sequence design
   Time: 11:05 AM - 11:25 AM
   Presenter: Gabriele Corso
   Is_paper: true
   Whole_line: false
-  # Authors: ABC DEF · John Doe · Jane Doe
-  # Abstract:
   
 - Title: <b>Break and Poster Setup</b>
   Time: 11:25 AM - 11:40 AM
