@@ -3,9 +3,9 @@
 <p>TBD</p>
 {% else %}
 {% assign half_size = tc_members.size | divided_by: 2 %}
-<table>
+<table style="color: #fafafa">
 	<tr>
-		<td style="color:#fafafa">
+		<td>
 			<ul>
 				{% for member in tc_members %}
 					{% if forloop.index0 <= half_size %}
@@ -14,7 +14,7 @@
 				{% endfor %}
 			</ul>
 		</td>
-		<td style="color:#fafafa">
+		<td>
 			<ul>
 				{% for member in tc_members %}
 					{% if forloop.index0 > half_size %}
