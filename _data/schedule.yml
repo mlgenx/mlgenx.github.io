@@ -2,7 +2,7 @@
  Time: 09:00 AM - 09:15 AM
  Whole_line: True
 
-- Title: [<b>Invited Speaker</b>] Functional Causal Bayesian Optimization and DiscoGen for Learning Optimal Interventions and Inferring Gene Regulatory Networks
+- Title: (<b>Invited Speaker</b>) Functional Causal Bayesian Optimization and DiscoGen for Learning Optimal Interventions and Inferring Gene Regulatory Networks
  Time: 09:15 AM - 09:50 AM
  Presenter: Silvia Chiappa
  Is_paper: false
@@ -14,7 +14,7 @@
  Time: 09:50 AM - 10:00 AM
  Whole_line: True
 
-- Title: [<b>Invited Speaker</b>] Leveraging (natural) language models for biology
+- Title: (<b>Invited Speaker</b>) Leveraging (natural) language models for biology
  Time: 10:00 AM - 10:35 AM
  Presenter: James Y Zou
  Is_paper: false
@@ -22,7 +22,7 @@
  # Bio: TBD
  # Abstract:
 
-- Title: [<b>Oral Paper</b>] DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements
+- Title: (<b>Oral Paper</b>) DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements
  Time: 10:40 AM - 11:00 AM
  Presenter: Luca Pinello
  Is_paper: true
@@ -30,7 +30,7 @@
  # Authors: ABC DEF · John Doe · Jane Doe
  # Abstract:
 
-- Title: [<b>Oral Paper</b>] Dirichlet flow matching with applications to DNA sequence design
+- Title: (<b>Oral Paper</b>) Dirichlet flow matching with applications to DNA sequence design
  Time: 11:05 AM - 11:25 AM
  Presenter: Gabriele Corso
  Is_paper: true
@@ -54,7 +54,7 @@
  # Bio: TBD
  # Abstract:
 
-- Title: [<b>Invited Speaker</b>] Efficiently detecting interactions from high dimensional observations of pairwise perturbations
+- Title: (<b>Invited Speaker</b>) Efficiently detecting interactions from high dimensional observations of pairwise perturbations
  Time: 01:45 PM - 03:20 PM
  Presenter: Jason Hartford
  Is_paper: false
@@ -66,7 +66,7 @@
  Time: 03:20 PM - 03:35 PM
  Whole_line: True
 
-- Title: [<b>Oral Paper</b>] Season combinatorial intervention predictions with Salt & Peper
+- Title: (<b>Oral Paper</b>) Season combinatorial intervention predictions with Salt & Peper
  Time: 03:35 PM - 03:55 PM
  Presenter: Thomas Gaudelet
  Is_paper: true
@@ -74,7 +74,7 @@
  # Authors: ABC DEF · John Doe · Jane Doe
  # Abstract:
 
-- Title: [<b>Oral Paper</b>] A mechanistically interpretable neural-network architecture for discovery of regulatory genomics
+- Title: (<b>Oral Paper</b>) A mechanistically interpretable neural-network architecture for discovery of regulatory genomics
  Time: 03:55 PM - 04:15 PM
  Presenter: Alex M Tseng
  Is_paper: true
@@ -82,7 +82,7 @@
  # Authors: ABC DEF · John Doe · Jane Doe
  # Abstract:
 
-- Title: [<b>Invited Speaker</b>] Evo: Long-context modeling from molecular to genome scale
+- Title: (<b>Invited Speaker</b>) Evo: Long-context modeling from molecular to genome scale
  Time: 04:20 PM - 04:55 PM
  Presenter: Brian Hie
  Is_paper: false
