@@ -59,7 +59,7 @@
   Presenter: Jason Hartford
   Is_paper: false
   Whole_line: false
-  Bio: "https://scholar.google.co.uk/citations?user=eBNK7SsAAAAJ&hl=en"
+  Bio: Jason Hartford is a Research Unit Lead and Staff Research Scientist at Valence Labs and an incoming Assistant Professor at the University of Waterloo and Vector Affiliate Member (starting July 2024). Previously, he was a postdoc with Prof Yoshua Bengio at Mila where he worked on causal representation learning. Before joining Mila, he completed his Master's and PhD at the University of British Columbia with Prof Kevin Leyton-Brown.
   Abstract: In principle, pairwise perturbations—such as pairwise gene knockouts or drug combinations—allow us to observe interactions between perturbants, but experiments of this sort are expensive because experimental costs scale quadratically in the number of perturbants, and when your observations are high dimensional (e.g. microscopy images or expression data), it is not obvious how to measure these interactions. In this talk, I will discuss recent work that shows how we can combine representations of single gene perturbations to detect interactions in pairwise perturbations, and then I will show how this can be used as a reward in an active learning algorithm. By leveraging active learning, we are able to avoid the quadratic costs and efficiently find these interactions. Finally, I will discuss theory that gives a formal characterization of the assumptions that need to hold for the detected interactions to correspond to real biological interactions.
   
 - Title: <b>Coffee Break</b>
