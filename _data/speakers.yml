@@ -36,3 +36,11 @@
       affiliation: Columbia University
       photo: BiancaDumitrascu.jpeg.jpg
       url: https://computational-morphogenomics-group.github.io
+
+
+- num_row: 3
+  speakers:
+    - name: Michael Bronstein
+      affiliation: University of Oxford
+      photo: Michael_Bronstein.jpg
+      url: https://www.cs.ox.ac.uk/people/michael.bronstein/
