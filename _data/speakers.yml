@@ -12,10 +12,6 @@
       affiliation: Recursion
       photo: jason.jpg
       url: https://scholar.google.co.uk/citations?user=eBNK7SsAAAAJ&hl=en
-    - name: Brian Hie
-      affiliation: Stanford University
-      photo: brian-hie.jpeg
-      url: https://brianhie.com/
 
 
 - num_row: 2
@@ -32,10 +28,6 @@
       affiliation: NYU, Genentech
       photo: kyunghyun.jpeg
       url: https://scholar.google.co.uk/citations?user=0RAmmIAAAAAJ&hl=en
-    - name: Bianca Dumitrascu
-      affiliation: Columbia University
-      photo: BiancaDumitrascu.jpeg.jpg
-      url: https://computational-morphogenomics-group.github.io
 
 
 - num_row: 3
@@ -44,3 +36,11 @@
       affiliation: University of Oxford
       photo: Michael_Bronstein.jpg
       url: https://www.cs.ox.ac.uk/people/michael.bronstein/
+    - name: Brian Hie
+      affiliation: Stanford University
+      photo: brian-hie.jpeg
+      url: https://brianhie.com/
+    - name: Bianca Dumitrascu
+      affiliation: Columbia University
+      photo: BiancaDumitrascu.jpeg.jpg
+      url: https://computational-morphogenomics-group.github.io
