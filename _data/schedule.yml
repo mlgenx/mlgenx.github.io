@@ -20,7 +20,7 @@
   Is_paper: false
   Whole_line: false
   Bio: "https://www.james-zou.com"
-  Abstract: TBD
+  Abstract: Biological language models, such as ESM2 for proteins, achieve impressive capabilities purely by learning correlation patterns between sequences. However they are mostly ignorant of the vast biological knowledge in literature and previous experiments. On the other hand, natural language models like GPT-4 have been trained on vast amount of scientific papers. In this talk, I will discuss our recent works on how to get the best of both worlds by leveraging natural language models for biology. I will present GenePT, an approach for projecting single cell data into the semantic space of GPT-4. Then I will discuss ProteinCLIP, which combines enhances capabilities of models like ESM2 by integrating text knowledge.
   
 - Title: "(<b>Oral Paper</b>) DNA-DIFFUSION: Leveraging generative models for controlling chromatin accessibility and gene expression via synthetic regulatory elements"
   Time: "10:40 - 11:00"
@@ -60,7 +60,7 @@
   Is_paper: false
   Whole_line: false
   Bio: "https://scholar.google.co.uk/citations?user=eBNK7SsAAAAJ&hl=en"
-  Abstract: TBD
+  Abstract: In principle, pairwise perturbations—such as pairwise gene knockouts or drug combinations—allow us to observe interactions between perturbants, but experiments of this sort are expensive because experimental costs scale quadratically in the number of perturbants, and when your observations are high dimensional (e.g. microscopy images or expression data), it is not obvious how to measure these interactions. In this talk, I will discuss recent work that shows how we can combine representations of single gene perturbations to detect interactions in pairwise perturbations, and then I will show how this can be used as a reward in an active learning algorithm. By leveraging active learning, we are able to avoid the quadratic costs and efficiently find these interactions. Finally, I will discuss theory that gives a formal characterization of the assumptions that need to hold for the detected interactions to correspond to real biological interactions.
   
 - Title: <b>Coffee Break</b>
   Time: "15:20 - 15:35"
@@ -88,7 +88,7 @@
   Is_paper: false
   Whole_line: false
   Bio: "https://brianhie.com"
-  Abstract: TBD
+  Abstract: The genome is a sequence that completely encodes the DNA, RNA, and proteins that orchestrate the function of a whole organism. Advances in machine learning combined with massive datasets of whole genomes could enable a biological foundation model that accelerates the mechanistic understanding and generative design of complex molecular interactions. We report Evo, a genomic foundation model that enables prediction and generation tasks from the molecular to genome scale. Using an architecture based on advances in deep signal processing, we scale Evo to 7 billion parameters with a context length of 131 kilobases (kb) at single-nucleotide, byte resolution. Trained on whole prokaryotic genomes, Evo can generalize across the three fundamental modalities of the central dogma of molecular biology to perform zero-shot function prediction that is competitive with, or outperforms, leading domain-specific language models. Evo also excels at multielement generation tasks, which we demonstrate by generating synthetic CRISPR-Cas molecular complexes and entire transposable systems for the first time. Using information learned over whole genomes, Evo can also predict gene essentiality at nucleotide resolution and can generate coding-rich sequences up to 650 kb in length, orders of magnitude longer than previous methods. Advances in multi-modal and multi-scale learning with Evo provides a promising path toward improving our understanding and control of biology across multiple levels of complexity.
   
 - Title: <b>Closing Remarks</b>
   Time: "16:55 - 17:00"
