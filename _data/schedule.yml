@@ -1,6 +1,5 @@
 - Title: <b>Opening Remarks</b>
   Time: "09:00 - 09:15"
-  Presenter: Gabriele Scalia
   Whole_line: true
     
 - Title: (<b>Invited Speaker</b>) Functional Causal Bayesian Optimization and DiscoGen for Learning Optimal Interventions and Inferring Gene Regulatory Networks
@@ -93,6 +92,4 @@
   
 - Title: <b>Closing Remarks</b>
   Time: "16:55 - 17:00"
-  Presenter: Sepideh Maleki
   Whole_line: true
-  
