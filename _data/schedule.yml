@@ -1,5 +1,6 @@
 - Title: <b>Opening Remarks</b>
   Time: "09:00 - 09:15"
+  Presenter: Gabriele Scalia
   Whole_line: true
     
 - Title: (<b>Invited Speaker</b>) Functional Causal Bayesian Optimization and DiscoGen for Learning Optimal Interventions and Inferring Gene Regulatory Networks
@@ -48,11 +49,11 @@
   
 - Title: <b>Panel Discussion</b>
   Time: "13:40 - 14:40"
-  Presenter: Kyunghyun Cho, Lindsay Edwards, Nicola Richmond, Bianca Dumitrascu, Michael Bronstein, Tommaso Biancalani
+  Presenter: Kyunghyun Cho, Lindsay Edwards, Nicola Richmond, Bianca Dumitrascu, Michael Bronstein, Aïcha Bentaieb
   Is_paper: false
   Whole_line: false
-  Bio: TBD
-  Abstract: TBD
+  # Bio: TBD
+  Abstract: Foundation models in bilogy.
   
 - Title: (<b>Invited Speaker</b>) Efficiently detecting interactions from high dimensional observations of pairwise perturbations
   Time: "14:45 - 15:20"
@@ -92,5 +93,6 @@
   
 - Title: <b>Closing Remarks</b>
   Time: "16:55 - 17:00"
+  Presenter: Sepideh Maleki
   Whole_line: true
   
