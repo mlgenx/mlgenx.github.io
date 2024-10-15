@@ -176,7 +176,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
     <li>Submission Deadline: <del> February 8, 2024 </del></li> 
     <li>Acceptance Notification: <del> March 3, 2024 </del> </li>
     <li>Camera-Ready Deadline: <del> April 26, 2024 </del> </li>
-    <li>Workshop Date: <b>Saturday, May 11, 2024</b> (in-person)</li>
+    <li>Workshop Date: <del> Saturday, May 11, 2024 (in-person) </del> </li>
 </ul>
 </p>
 
