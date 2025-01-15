@@ -190,13 +190,6 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <p>We look forward to meeting you in Singapore!
 </p>
 
-<br>
-<h2 class="blackpar_title" id="speakers">Speakers & Panelists</h2>
-<p>
-{% include speakers.html %}
-</p>
-
-
 
 <!-- Schedule -->
 <!--
@@ -206,11 +199,7 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p>
 -->
 
-<!-- Organizers -->
-<h2 class="blackpar_title" id="organizers">Organizers</h2>
-<p>
-{% include organizers.html %}
-</p>
+
 
 
 <!--
