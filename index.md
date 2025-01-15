@@ -160,7 +160,7 @@ Submissions that are identical to versions that have been previously published, 
 We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
 </p>
 
-<p> <b>Note:</b> Official reviews are anonymous, and unlike the main ICLR conference track, the papers and reviews are not made public until acceptance!</p>
+<p> <b>Note:</b> Official reviews are anonymous, and unlike the main  conference track, the papers and reviews are not made public until acceptance!</p>
 -->
 
 <!--
@@ -174,10 +174,10 @@ We are looking for reviewers with expertise in machine learning or computational
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <li>Submission Deadline: <del> February 8, 2024 </del></li> 
-    <li>Acceptance Notification: <del> March 3, 2024 </del> </li>
-    <li>Camera-Ready Deadline: <del> April 26, 2024 </del> </li>
-    <li>Workshop Date: <del> Saturday, May 11, 2024 (in-person) </del> </li>
+    <li>Submission Deadline: February 10, 2025 </li> 
+    <li>Acceptance Notification: March 5, 2025 </li>
+    <li>Camera-Ready Deadline: April 24, 2025 </li>
+    <!--<li>Workshop Date: Saturday, May 11, 2024 (in-person) </li>-->
 </ul>
 </p>
 
@@ -187,7 +187,7 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 
 <p> If you have already registered for ICLR, you can join us at the MLGenX workshop. However, if you're solely interested in the workshop, you can still participate in the MLGenX workshop by registering for the "Saturday Workshop 1 Day Pass". Please visit <a href="https://iclr.cc/Register/view-registration">this link</a> to secure your spot. </p>
 
-<p>We look forward to meeting you in Vienna!
+<p>We look forward to meeting you in Singapore!
 </p>
 
 <br>
@@ -199,11 +199,12 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 
 
 <!-- Schedule -->
+<!--
 <h2 class="blackpar_title" id="schedule">Schedule (CET)</h2>
 <p>
 {% include schedule.html %}
 </p>
-
+-->
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
@@ -212,12 +213,15 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p>
 
 <br>
+
 <!-- Technical Committee -->
+<!--
 <h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
 <p>
 {% include technical_committee.html %}
 </p>
 <br><br>
+-->
 
 
 <!--
