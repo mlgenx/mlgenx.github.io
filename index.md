@@ -212,17 +212,6 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 {% include organizers.html %}
 </p>
 
-<br>
-
-<!-- Technical Committee -->
-<!--
-<h2 class="blackpar_title" id="technical_committee">Technical Committee</h2>
-<p>
-{% include technical_committee.html %}
-</p>
-<br><br>
--->
-
 
 <!--
 <h2 class="blackpar_title">Sponsor</h2>
