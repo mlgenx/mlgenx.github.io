@@ -23,9 +23,11 @@
     - name: Mengdi Wang
       photo: mangi.jpeg
       url: https://scholar.google.com/citations?user=33yNvIgAAAAJ&hl=en
-    - name: Aïcha Bentaieb
-      photo: aichabentaieb.jpeg
-      url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
     - name: Gabriele Scalia
       photo: gabriele_scalia.jpeg
       url: https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it
+- num_row: 3
+  organizers:
+    - name: Aïcha Bentaieb
+      photo: aichabentaieb.jpeg
+      url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
