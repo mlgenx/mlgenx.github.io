@@ -191,7 +191,11 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p>
 
 
-
+<!-- Organizers -->
+<h2 class="blackpar_title" id="organizers">Organizers</h2>
+<p>
+{% include organizers.html %}
+</p>
 
 
 <!--
