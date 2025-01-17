@@ -29,6 +29,9 @@ innovation in drug discovery.</p>
 <br>
 </div>
 
+<!--starts inverted colors-->
+<div class="inverted">
+<br>
 
 <br>
 <!-- Call for Papers -->
