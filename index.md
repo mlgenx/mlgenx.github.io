@@ -29,18 +29,6 @@ innovation in drug discovery.</p>
 <br>
 </div>
 
-<!--
-<!--starts inverted colors-->
-<div class="inverted">
-<br>
-<h2 class="blackpar_title" id="overview">Overview</h2>
-<p>
-The critical bottleneck in drug discovery is still our limited understanding of the biological mechanisms underlying diseases. Consequently, often we do not know why patients develop specific diseases, and many drug candidates fail in clinical trials.  Recent advancements in new genomics platforms and the development of diverse omics datasets have ignited a growing interest in the study of this field. In addition, machine learning plays a pivotal role in improving success rates in language processing, image analysis, and molecular design. The boundaries between these two domains are becoming increasingly blurred, particularly with the emergence of modern foundation models that stand at the intersection of data-driven approaches, self-supervised techniques, and genomic explorations. This workshop aims to elucidate the intricate relationship between genomics, target identification, and fundamental machine learning methods. By strengthening the connection between machine learning and target identification via genomics, new possibilities for interdisciplinary research in these areas will emerge. 
-</p>
-<p>
-The goal of this workshop is to bring together communities at the intersection of machine learning and genomics to discuss areas of interaction and explore possibilities for future areas of research.
-During this workshop, participants will gain valuable insights into the synergies between ML and genomics-related research, and help refine the next generation of applied and theoretical ML methods for target identification. We look forward to your participation in this exciting discourse on the future of (foundational) genomics and AI.
-</p> -->
 
 <br>
 <!-- Call for Papers -->
