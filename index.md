@@ -29,6 +29,7 @@ innovation in drug discovery.</p>
 <br>
 </div>
 
+<!--
 <!--starts inverted colors-->
 <div class="inverted">
 <br>
@@ -39,7 +40,7 @@ The critical bottleneck in drug discovery is still our limited understanding of 
 <p>
 The goal of this workshop is to bring together communities at the intersection of machine learning and genomics to discuss areas of interaction and explore possibilities for future areas of research.
 During this workshop, participants will gain valuable insights into the synergies between ML and genomics-related research, and help refine the next generation of applied and theoretical ML methods for target identification. We look forward to your participation in this exciting discourse on the future of (foundational) genomics and AI.
-</p>
+</p> -->
 
 <br>
 <!-- Call for Papers -->
