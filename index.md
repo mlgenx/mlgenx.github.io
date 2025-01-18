@@ -38,7 +38,10 @@ innovation in drug discovery.</p>
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
 <p>
-We consider a broad range of subject areas including but not limited to the following topics:
+This year, the workshop will feature three distinct tracks designed to welcome a diverse array of researchers
+in the field of machine learning and biology: the Main Track including application and ML topics, the
+Special Track on LLMs and Agentic AI, and the Tiny Papers Track. 
+We consider a broad range of subject areas including but not limited to the following topics (per track).
 </p>
 
 <!--
@@ -105,37 +108,60 @@ We consider a broad range of subject areas including but not limited to the foll
 
 <h5>From first principles: AI for Genomics Exploration</h5>
 -->
-
+<b>Main Track</b>:
 <ul>
-    <li><b>Foundation models for genomics</b>
+    <li>Foundation models for genomics
     </li>
-    <li><b>Biological sequence design</b>
+    <li>Biological sequence design
     </li>
-    <li><b>Interpretability and Generalizability in genomics</b>
+    <li>Interpretability and Generalizability in genomics
     </li>
-    <li><b>Causal representation learning</b>
+    <li>Causal representation learning
     </li>
-    <li><b>Perturbation biology</b>
+    <li>Perturbation biology
     </li>
-    <li><b>Modeling long-range dependencies in sequences, single-cell and spatial omics</b>
+    <li>Modeling long-range dependencies in sequences, single-cell and spatial omics
     </li>
-    <li><b>Integrating multimodal perturbation readouts</b>
+    <li>Integrating multimodal perturbation readouts
     </li>
-    <li><b>Active learning in genomics</b>
+    <li>Active learning in genomics
     </li>
-    <li><b>Generative models in Biology</b>
+    <li>Generative models in Biology
     </li>
-    <li><b>Multimodal representation learning</b>
+    <li>Multimodal representation learning
     </li>
-    <li><b>Uncertainty quantification</b>
+    <li>Uncertainty quantification
     </li>
-    <li><b>Optimal transport</b>
+    <li>Optimal transport
     </li>
-    <li><b>Experimental design for Biology</b>
+    <li>Experimental design for Biology
     </li>
-    <li><b>Graph neural network and knowledge graph</b>
+    <li>Graph neural network and knowledge graph
     </li>
-    <li><b>New datasets and benchmarks for genomics explorations</b>
+    <li>New datasets and benchmarks for genomics explorations
+    </li>
+</ul>
+
+<b>Special Track on LLMs and Agentic AI</b>:
+<ul>
+    </li>
+    <li>Pre-training multi-omics models
+    </li>
+    <li>Synthetic data generation and data quality for pre-training, fine-tuning and instruction tuning
+    </li>
+    <li>Fine-tuning (SFT, RLHF, RL with lab feedback, ...) on novel tasks
+    </li>
+    <li>In-context learning with large-context models
+    </li>
+    <li>Reasoning through prompt engineering or architectural design
+    </li>
+    <li>Interpretability and uncertainty quantification
+    </li>
+    <li>Knowledge retrieval (RAG, knowledge graph, ...)
+    </li>
+    <li>Efficient interactive system designs (agents, humans, and biological tools)
+    </li>
+    <li>Training/fine-tuning LLM-powered design and planning engine
     </li>
 </ul>
 
