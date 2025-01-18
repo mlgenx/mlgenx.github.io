@@ -40,7 +40,13 @@ innovation in drug discovery.</p>
 <p>
 This year, the workshop will feature three distinct tracks designed to welcome a diverse array of researchers
 in the field of machine learning and biology: the Main Track including application and ML topics, the
-Special Track on LLMs and Agentic AI, and the Tiny Papers Track. 
+Special Track on LLMs and Agentic AI, and the Tiny Papers Track. Papers in the main ans special tracks must be prepared and submitted as a single file: 8 pages for the paper, with unlimited pages for references, the impact statement, and appendices.
+</p>
+<p>
+Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
+We also encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.
+</p>
+<p>
 We consider a broad range of subject areas including but not limited to the following topics.
 </p>
 
@@ -165,11 +171,8 @@ We consider a broad range of subject areas including but not limited to the foll
 </ul>
 
 <p><b>Tiny Papers Track</b>:</p>
-<p>This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-4 pages in ICLR format) paper submissions, with an eye towards inclusion; see ​​https://iclr.cc/Conferences/2025/CallForTinyPapers for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on https://iclr.cc/Conferences/2025/ at the beginning of February and close on March 2nd.</p>
+<p>This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-4 pages in ICLR format) paper submissions, with an eye towards inclusion; see ​​<a href="https://iclr.cc/Conferences/2025/CallForTinyPapers">https://iclr.cc/Conferences/2025/CallForTinyPapers</a> for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on <a href="https://iclr.cc/Conferences/2025/">https://iclr.cc/Conferences/2025/</a> at the beginning of February and close on March 2nd.</p>
 
-<p>
-Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
-We also encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.</p>
 
 <!--
 <h3 class="blackpar_title">Submission Instructions</h3>
