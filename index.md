@@ -108,7 +108,7 @@ We consider a broad range of subject areas including but not limited to the foll
 
 <h5>From first principles: AI for Genomics Exploration</h5>
 -->
-<b>Main Track</b>:
+<p><b>Main Track</b>:</p>
 <ul>
     <li>Foundation models for genomics
     </li>
@@ -142,9 +142,8 @@ We consider a broad range of subject areas including but not limited to the foll
     </li>
 </ul>
 
-<b>Special Track on LLMs and Agentic AI</b>:
+<p><b>Special Track on LLMs and Agentic AI</b>:</p>
 <ul>
-    </li>
     <li>Pre-training multi-omics models
     </li>
     <li>Synthetic data generation and data quality for pre-training, fine-tuning and instruction tuning
@@ -164,6 +163,8 @@ We consider a broad range of subject areas including but not limited to the foll
     <li>Training/fine-tuning LLM-powered design and planning engine
     </li>
 </ul>
+
+<p><b>Tiny Papers Track</b>:</p>
 
 <p>
 Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
