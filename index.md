@@ -40,7 +40,7 @@ innovation in drug discovery.</p>
 <p>
 This year, the workshop will feature three distinct tracks designed to welcome a diverse array of researchers
 in the field of machine learning and biology: the Main Track including application and ML topics, the
-Special Track on LLMs and Agentic AI, and the Tiny Papers Track. Papers in the main ans special tracks must be prepared and submitted as a single file: 8 pages for the paper, with unlimited pages for references, the impact statement, and appendices.
+Special Track on LLMs and Agentic AI, and the Tiny Papers Track. Papers in the main and the special tracks must be prepared and submitted as a single file: 8 pages for the paper, with unlimited pages for references, the impact statement, and appendices.
 </p>
 <p>
 Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
