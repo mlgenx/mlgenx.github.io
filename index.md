@@ -190,8 +190,8 @@ Submissions that are identical to versions that have been previously published, 
 We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
 </p>
 
-<p> <b>Note:</b> Official reviews are anonymous, and unlike the main  conference track, the papers and reviews are not made public until acceptance!</p>
--->
+<p> <b>Note:</b> Official reviews are anonymous, and unlike the main  conference, the papers and reviews are not made public until acceptance!</p>
+
 
 <!--
 <h3 class="blackpar_title">Call for Reviewers</h3>
