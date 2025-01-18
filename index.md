@@ -174,11 +174,11 @@ We consider a broad range of subject areas including but not limited to the foll
 <p>This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-4 pages in ICLR format) paper submissions, with an eye towards inclusion; see ​​<a href="https://iclr.cc/Conferences/2025/CallForTinyPapers">https://iclr.cc/Conferences/2025/CallForTinyPapers</a> for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on <a href="https://iclr.cc/Conferences/2025/">https://iclr.cc/Conferences/2025/</a> at the beginning of February and close on March 2nd.</p>
 
 
-<!--
+
 <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
 Similar to the main ICLR conference, submissions will be double blind.  
-We use <a href="https://openreview.net/group?id=ICLR.cc/2024/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 6 pages for the main text of the submission, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip">ICLR template style</a>.
+We use <a href="https://openreview.net/group?id=ICLR.cc/2025/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 8 pages for the main text of the submission in the main and special tracks, and 4 pages for the main text of the submission in the tiny paper track, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip">ICLR template style</a>.
 </p>
 <p>
 Submissions that are identical to versions that have been previously published, or accepted to the main ICLR conference are not allowed. However, papers that cite previous related work by the authors and papers that have appeared on non-peer reviewed websites (like arXiv) do not violate the policy. Submission of the paper to archival repositories such as arXiv is allowed during the review period.
