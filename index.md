@@ -221,6 +221,12 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <p>We look forward to meeting you in Singapore!
 </p> -->
 
+<!-- Speakers -->
+<br>
+<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
+<p>
+{% include speakers.html %}
+</p>
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
