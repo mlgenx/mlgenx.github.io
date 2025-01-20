@@ -1,46 +1,42 @@
 - num_row: 1
   speakers:
-    - name: Silvia Chiappa
-      affiliation: Google DeepMind
-      photo: silvia.jpg
-      url: https://csilviavr.github.io/
-    - name: James Zou
+    - name: Marinka Zitnik
+      affiliation: Harvard University
+      photo: marinka_zitnik.jpg
+      url: https://scholar.google.com/citations?user=YtUDgPIAAAAJ&hl=en
+    - name: Jure Leskovec
       affiliation: Stanford University
-      photo: JamesZou.jpg
-      url: https://www.james-zou.com/
-    - name: Jason Hartford
-      affiliation: Recursion
-      photo: jason.jpg
-      url: https://scholar.google.co.uk/citations?user=eBNK7SsAAAAJ&hl=en
+      photo: jure.jpeg
+      url: https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en&oi=ao
+    - name: Shekoofeh Azizi
+      affiliation: Google DeepMind
+      photo: shek.jpg
+      url: https://scholar.google.com/citations?user=BkRk4FwAAAAJ&hl=en
 
 
 - num_row: 2
   speakers:
-    - name: Lindsay Edwards
-      affiliation: CTO, Relation Therapeutics
-      photo: lindsay.jpg
-      url: https://www.linkedin.com/in/lindsay-edwards-7a7268a7/?originalSubdomain=uk
-    - name: Nicola Richmond
-      affiliation: VP, BenevolentAI
-      photo: nicola.jpg
-      url: https://www.benevolent.com/who-we-are/our-leadership/nicola-richmond/
-    - name: Kyunghyun Cho
-      affiliation: NYU, Genentech
-      photo: kyunghyun.jpeg
-      url: https://scholar.google.co.uk/citations?user=0RAmmIAAAAAJ&hl=en
+    - name: Mihaela van der Schaar
+      affiliation: University of Cambridge
+      photo: mihaela.jpeg
+      url: https://scholar.google.com/citations?user=DZ3S--MAAAAJ&hl=en&oi=ao
+    - name: Yun S. Song
+      affiliation: UC Berkeley
+      photo: song.jpeg
+      url: https://people.eecs.berkeley.edu/~yss/
+    - name: Djork-Arne Clevert
+      affiliation: Pfizer
+      photo: djork.jpeg
+      url: https://scholar.google.com/citations?user=id2clmMAAAAJ&hl=en
 
 
 - num_row: 3
   speakers:
-    - name: Michael Bronstein
-      affiliation: University of Oxford
-      photo: Michael_Bronstein.jpg
-      url: https://www.cs.ox.ac.uk/people/michael.bronstein/
-    - name: Brian Hie
-      affiliation: Stanford University
-      photo: brian-hie.jpeg
-      url: https://brianhie.com/
-    - name: Bianca Dumitrascu
-      affiliation: Columbia University
-      photo: BiancaDumitrascu.jpeg.jpg
-      url: https://computational-morphogenomics-group.github.io
+    - name: Max Welling
+      affiliation: CuspAI, UvA
+      photo: max.jpg
+      url: https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=ao
+    - name: Limsoon Wong
+      affiliation: National University of Singapore
+      photo: limsoon.jpeg
+      url: https://scholar.google.com/citations?user=Inqu8SkAAAAJ&hl=en
