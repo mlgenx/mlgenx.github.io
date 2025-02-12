@@ -205,7 +205,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <p>
 <ul>
     <li>Submission Deadline (<b>Main and Special Tracks</b> - Up to 8 pages): <del> February 12, 2025 </del> <span style="color: #D2042D"> February 16, 2025 </span></li>
-    <li>Submission Deadline (<b>Tiny Papers Track</b> - Up to 4 pages): February 23, 2025 </li>
+    <li>Submission Deadline (<b>Tiny Papers Track</b> - Up to 4 pages): <span style="color: #D2042D">February 23, 2025 </span></li>
     <li>Acceptance Notification: March 5, 2025 </li>
     <li>Camera-Ready Deadline: April 24, 2025 </li>
     <li>Workshop Date: Sunday, April 27, 2025 </li>
