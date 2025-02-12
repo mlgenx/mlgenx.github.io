@@ -204,8 +204,8 @@ We are looking for reviewers with expertise in machine learning or computational
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
 <p>
 <ul>
-    <li>Submission Deadline (Main and Special Tracks - Up to 8 pages): <del> February 12, 2025 </del> <span style="color: #D2042D"> February 16, 2025 </span></li>
-    <li>Submission Deadline (Tiny Papers Track - Up to 4 pages): February 23, 2025 </li>
+    <li>Submission Deadline (<b>Main and Special Tracks</b> - Up to 8 pages): <del> February 12, 2025 </del> <span style="color: #D2042D"> February 16, 2025 </span></li>
+    <li>Submission Deadline (<b>Tiny Papers Track</b> - Up to 4 pages): February 23, 2025 </li>
     <li>Acceptance Notification: March 5, 2025 </li>
     <li>Camera-Ready Deadline: April 24, 2025 </li>
     <li>Workshop Date: Sunday, April 27, 2025 </li>
