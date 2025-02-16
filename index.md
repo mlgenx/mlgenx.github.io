@@ -235,6 +235,12 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 {% include organizers.html %}
 </p>
 
+<!-- Organizers -->
+<h2 class="blackpar_title" id="students">Student Organizers</h2>
+<p>
+{% include students.html %}
+</p>
+
 
 <!--
 <h2 class="blackpar_title">Sponsor</h2>
