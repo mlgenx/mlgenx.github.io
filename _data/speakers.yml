@@ -20,26 +20,18 @@
       affiliation: University of Cambridge
       photo: mihaela.jpeg
       url: https://scholar.google.com/citations?user=DZ3S--MAAAAJ&hl=en&oi=ao
-    - name: Yun S. Song
-      affiliation: UC Berkeley
-      photo: song.jpeg
-      url: https://people.eecs.berkeley.edu/~yss/
     - name: Djork-Arne Clevert
       affiliation: Pfizer
       photo: djork.jpeg
       url: https://scholar.google.com/citations?user=id2clmMAAAAJ&hl=en
-
-
-- num_row: 3
-  speakers:
-    - name: Max Welling
-      affiliation: CuspAI, UvA
-      photo: maxw.jpeg
-      url: https://scholar.google.com/citations?user=8200InoAAAAJ&hl=en&oi=ao
     - name: Limsoon Wong
       affiliation: National University of Singapore
       photo: limsoon.jpeg
       url: https://scholar.google.com/citations?user=Inqu8SkAAAAJ&hl=en
+
+
+- num_row: 3
+  speakers:
     - name: Jakob Nikolas Kather
       affiliation: NCT, TDU
       photo: jakob.jpeg
