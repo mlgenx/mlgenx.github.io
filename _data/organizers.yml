@@ -31,3 +31,8 @@
     - name: Gabriele Scalia
       photo: gabriele_scalia.jpeg
       url: https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it
+- num_row: 4
+  organizers:
+    - name: Edward De Brouwer
+      photo: edward.jpeg
+      url: https://scholar.google.com/citations?user=-Pm4XtAAAAAJ&hl=fr
