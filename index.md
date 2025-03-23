@@ -195,7 +195,7 @@ We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be
 
 <h3 class="blackpar_title">Camera Ready Instructions</h3>
 <p>
-An email with instructions for uploading camera-ready submissions will go out mid-March 2025. To prepare your camera ready, please use the <a href="https://github.com/Namkyeong/mlgenx.github.io/raw/refs/heads/main/latex_templates/MLGenX_Formattings.zip" download>MLGenX 2025 template style</a>.
+An email with instructions for uploading camera-ready submissions will go out mid-March 2025. To prepare your camera ready, please use the <a href="https://github.com/Namkyeong/mlgenx.github.io/raw/refs/heads/main/latex_templates/MLGenX_Formatting_Instructions.zip" download>MLGenX 2025 template style</a>.
 </p>
 <ul>
     <li>The authors can use one additional page beyond the page limit specified during the submission (9 pages for main/special track papers and 5 pages for tiny track papers). This extra page can be used to appropriately address the comments received during the review process.
