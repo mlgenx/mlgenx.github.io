@@ -211,6 +211,15 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
   📢 <strong>MLGenX Workshop</strong> will take place on <strong>Sunday April 27th</strong> in Room <strong>Garnet 212–213</strong>!
 </p>
 
+
+<!-- Speakers -->
+<br>
+<h2 class="blackpar_title" id="speakers">Schedule</h2>
+<p>
+{% include schedule.html %}
+</p>
+
+
 <!-- Speakers -->
 <br>
 <h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
