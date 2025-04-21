@@ -206,9 +206,18 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p> -->
 
 
+<!-- Speakers -->
+<br>
+<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
+<p>
+{% include speakers.html %}
+</p>
+
+
+
 <!-- Accepted Papers -->
 <br>
-<h2 class="blackpar_title" id="speakers">Accepted Papers</h2>
+<h2 class="blackpar_title" id="papers">Accepted Papers</h2>
 <p>
 {% include spotlight_papers.html %}
 </p>
@@ -218,15 +227,6 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <p>
 {% include tiny_papers.html %}
 </p>
-
-<!-- Speakers -->
-<br>
-<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
-<p>
-{% include speakers.html %}
-</p>
-
-
 
 <h3 class="blackpar_title">Camera Ready Instructions</h3>
 <p>
