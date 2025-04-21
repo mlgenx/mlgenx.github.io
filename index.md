@@ -212,9 +212,9 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p>
 
 
-<!-- Speakers -->
+<!-- Schedule -->
 <br>
-<h2 class="blackpar_title" id="speakers">Schedule</h2>
+<h2 class="blackpar_title" id="schedule">Schedule</h2>
 <p>
 {% include schedule.html %}
 </p>
