@@ -206,6 +206,11 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p> -->
 
 
+<!-- Basic Information -->
+<p style="font-weight: 400; font-size: 1.5rem; color: #2c3e50;">
+  📢 <strong>MLGenX Workshop</strong> will take place on <strong>Sunday April 27th</strong> in Room <strong>Garnet 212–213</strong>!
+</p>
+
 <!-- Speakers -->
 <br>
 <h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
