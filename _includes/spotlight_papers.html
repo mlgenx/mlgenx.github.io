@@ -1,0 +1,66 @@
+{% assign papers = site.data.spotlight_papers %}
+{% if papers.size > 0 %}
+  <style>
+    .paper-table {
+      width: 80%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin-top: 20px;
+      color: #222;
+    }
+
+    .paper-table th, .paper-table td {
+      border: 1px solid #ddd;
+      padding: 12px;
+    }
+
+    .paper-table th {
+      background-color: #f7f7f7;
+      color: #333;
+      text-align: left;
+    }
+
+    .paper-table tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    .paper-table tr:hover {
+      background-color: #e6f7ff;
+    }
+
+    .paper-table a {
+      color: #007acc;
+      text-decoration: none;
+    }
+
+    .paper-table a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+  <div class="row">
+    <table class="paper-table">
+      <thead>
+        <tr>
+          <th>Spotlight Papers</th>
+          <th>Authors</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for paper in papers %}
+          <tr>
+            <td>
+                <a href="{{ paper.Link }}" target="_blank">
+                  {{ paper.Title }}
+                </a>
+              </td>
+            <td>{{ paper.Author }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% else %}
+  <p>No papers available.</p>
+{% endif %}

@@ -35,9 +35,9 @@ innovation in drug discovery.</p>
 
 <br>
 <!-- Call for Papers -->
-<h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
+<!-- <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2> -->
 
-<p>
+<!-- <p>
 This year, the workshop will feature three distinct tracks designed to welcome a diverse array of researchers
 in the field of machine learning and biology: the Main Track including application and ML topics, the
 Special Track on LLMs and Agentic AI, and the Tiny Papers Track. Papers in the main and the special tracks must be prepared and submitted as a single file: 8 pages for the paper, with unlimited pages for references, the impact statement, and appendices.
@@ -48,7 +48,7 @@ We also encourage submissions related to application of molecular biology, inclu
 </p>
 <p>
 We consider a broad range of subject areas including but not limited to the following topics.
-</p>
+</p> -->
 
 <!--
 <ul>
@@ -114,7 +114,7 @@ We consider a broad range of subject areas including but not limited to the foll
 
 <h5>From first principles: AI for Genomics Exploration</h5>
 -->
-<p><b>Main Track</b>:</p>
+<!-- <p><b>Main Track</b>:</p>
 <ul>
     <li>Foundation models for genomics
     </li>
@@ -168,14 +168,14 @@ We consider a broad range of subject areas including but not limited to the foll
     </li>
     <li>Training/fine-tuning LLM-powered design and planning engine
     </li>
-</ul>
+</ul> -->
 
-<p><b>Tiny Papers Track</b>:</p>
-<p>This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-4 pages in ICLR format) paper submissions, with an eye towards inclusion; see ​​<a href="https://iclr.cc/Conferences/2025/CallForTinyPapers">https://iclr.cc/Conferences/2025/CallForTinyPapers</a> for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on <a href="https://iclr.cc/Conferences/2025/">https://iclr.cc/Conferences/2025/</a> at the beginning of February and close on March 2nd.</p>
+<!-- <p><b>Tiny Papers Track</b>:</p>
+<p>This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-4 pages in ICLR format) paper submissions, with an eye towards inclusion; see ​​<a href="https://iclr.cc/Conferences/2025/CallForTinyPapers">https://iclr.cc/Conferences/2025/CallForTinyPapers</a> for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on <a href="https://iclr.cc/Conferences/2025/">https://iclr.cc/Conferences/2025/</a> at the beginning of February and close on March 2nd.</p> -->
 
 
 
-<h3 class="blackpar_title">Submission Instructions</h3>
+<!-- <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
 Similar to the main ICLR conference, submissions will be double blind.  
 We use <a href="https://openreview.net/group?id=ICLR.cc/2025/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 8 pages for the main text of the submission in the main and special tracks, and 4 pages for the main text of the submission in the tiny paper track, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip">ICLR template style</a>.
@@ -190,7 +190,42 @@ Submissions that are identical to versions that have been previously published, 
 We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
 </p>
 
-<p> <b>Note:</b> Official reviews are anonymous, and unlike the main  conference, the papers and reviews are not made public until acceptance!</p>
+<p> <b>Note:</b> Official reviews are anonymous, and unlike the main  conference, the papers and reviews are not made public until acceptance!</p> -->
+
+
+
+
+<!--
+<h3 class="blackpar_title">Workshop Registration</h3>
+<p>
+Whether you're a seasoned professional or a curious enthusiast, all are welcome to attend! Don't worry if you don't have an accepted paper – participation is open to everyone.</p>
+
+<p> If you have already registered for ICLR, you can join us at the MLGenX workshop. However, if you're solely interested in the workshop, you can still participate in the MLGenX workshop by registering for the "Saturday Workshop 1 Day Pass". Please visit <a href="https://iclr.cc/Register/view-registration">this link</a> to secure your spot. </p>
+
+<p>We look forward to meeting you in Singapore!
+</p> -->
+
+
+<!-- Accepted Papers -->
+<br>
+<h2 class="blackpar_title" id="speakers">Accepted Papers</h2>
+<p>
+{% include spotlight_papers.html %}
+</p>
+<p>
+{% include poster_papers.html %}
+</p>
+<p>
+{% include tiny_papers.html %}
+</p>
+
+<!-- Speakers -->
+<br>
+<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
+<p>
+{% include speakers.html %}
+</p>
+
 
 
 <h3 class="blackpar_title">Camera Ready Instructions</h3>
@@ -220,23 +255,6 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </ul>
 </p>
 
-<!--
-<h3 class="blackpar_title">Workshop Registration</h3>
-<p>
-Whether you're a seasoned professional or a curious enthusiast, all are welcome to attend! Don't worry if you don't have an accepted paper – participation is open to everyone.</p>
-
-<p> If you have already registered for ICLR, you can join us at the MLGenX workshop. However, if you're solely interested in the workshop, you can still participate in the MLGenX workshop by registering for the "Saturday Workshop 1 Day Pass". Please visit <a href="https://iclr.cc/Register/view-registration">this link</a> to secure your spot. </p>
-
-<p>We look forward to meeting you in Singapore!
-</p> -->
-
-<!-- Speakers -->
-<br>
-<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
-<p>
-{% include speakers.html %}
-</p>
-
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
 <p>
@@ -248,6 +266,8 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <p>
 {% include students.html %}
 </p>
+
+
 
 
 <!--
