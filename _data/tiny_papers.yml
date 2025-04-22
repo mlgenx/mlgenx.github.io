@@ -1,0 +1,108 @@
+- Author: Ali Saadat et al.
+  Link: https://openreview.net/forum?id=wW6jhSMTEg
+  Title: Exploring the potential of genetic variation and zygosity in DNA language
+    models
+- Author: Riselda Kodra et al.
+  Link: https://openreview.net/forum?id=bgM738EDYS
+  Title: 'Enhancing Downstream Analysis in Genome Sequencing:  Species Classification
+    While Basecalling'
+- Author: Qian Liu et al.
+  Link: https://openreview.net/forum?id=BBXNA1mQCW
+  Title: Knockoff Statistics-Driven Interpretable Deep Learning Models for Uncovering
+    Potential Biomarkers for COVID-19 Severity Prediction
+- Author: Pablo Rodenas Ruiz et al.
+  Link: https://openreview.net/forum?id=Q15Dg5lQou
+  Title: Benchmarking Fine-Tuned RNA Language Models for Intronic Branch Point Prediction
+- Author: Junjie Xu et al.
+  Link: https://openreview.net/forum?id=U3Ejoy1BG2
+  Title: 'HARMONY: A Multi-Representation Framework for RNA Property Prediction'
+- Author: Aakansha Narain et al.
+  Link: https://openreview.net/forum?id=iLo7Qj6Pfx
+  Title: 'MutEmbed: Self-Supervised Learning of Biological Latent Embeddings from
+    Cancer Mutational Profiles'
+- Author: Wenmin Zhao et al.
+  Link: https://openreview.net/forum?id=PdbfAKWZs3
+  Title: Multi-modal single-cell foundation models via dynamic token adaptation
+- Author: Mahbuba Tasmin et al.
+  Link: https://openreview.net/forum?id=cwi0o5rrVG
+  Title: 'BEYOND SEQUENCE-ONLY MODELS: LEVERAGING STRUCTURAL CONSTRAINTS FOR ANTIBIOTIC
+    RESISTANCE PREDICTION IN SPARSE GENOMIC DATASETS'
+- Author: Yidi Huang et al.
+  Link: https://openreview.net/forum?id=kD8LptrZ7v
+  Title: Reference-free cell-type annotation with LLM agents
+- Author: Stephen M. Asiedu et al.
+  Link: https://openreview.net/forum?id=M5fIK5mDqd
+  Title: Multi-omic Causal Discovery using Genotypes and Gene Expression
+- Author: Nathan Levy et al.
+  Link: https://openreview.net/forum?id=7Jxb5zfcZn
+  Title: '2DE: a probabilistic method for differential expression across niches in
+    spatial transcriptomics data'
+- Author: Alla Chepurova et al.
+  Link: https://openreview.net/forum?id=gF3pYd4DmN
+  Title: 'Searching for Phenotypic Needles in Genomic Haystacks: DNA Language Models
+    for Sex Prediction'
+- Author: Pakaphol Thadawasin et al.
+  Link: https://openreview.net/forum?id=1MPTY6JaQc
+  Title: Gradient-Based Gene Selection for Multimodal scRNA-seq Foundation Models
+- Author: Youngkuk Kim et al.
+  Link: https://openreview.net/forum?id=lwK6AaIAJB
+  Title: Aligning Molecules and Fragments in a Shared Embedding Space for RL-Based
+    Molecule Generation
+- Author: Yoshitaka Inoue et al.
+  Link: https://openreview.net/forum?id=QcujughqCJ
+  Title: 'DrugAgent: Multi-Agent Large Language Model-Based Reasoning for Drug-Target
+    Interaction Prediction'
+- Author: Tarek M Zikry et al.
+  Link: https://openreview.net/forum?id=kmLV911L80
+  Title: 'LIMEADE: Local Interpretable Manifold Explanations for Dimension Evaluations'
+- Author: Matthew Wood et al.
+  Link: https://openreview.net/forum?id=Ky0CkFiVhu
+  Title: 'Helix-mRNA: A Hybrid Foundation Model For Full Sequence mRNA Therapeutics'
+- Author: Sumeer Ahmad Khan et al.
+  Link: https://openreview.net/forum?id=c8TWaIW0FU
+  Title: 'stDiffusion: A Diffusion Based Model for Generative Spatial Transcriptomics'
+- Author: Sumeer Ahmad Khan et al.
+  Link: https://openreview.net/forum?id=Sh88LK85AR
+  Title: 'SPELL: Spatial Prompting with Chain-of-Thought for Zero-Shot Learning in
+    Spatial Transcriptomics'
+- Author: KRITIKA CHUGH et al.
+  Link: https://openreview.net/forum?id=B4KMAqeTfv
+  Title: Enhancing E. coli Genomic Analysis with Retrieval-Augmented Generation
+- Author: Inyoung Sung et al.
+  Link: https://openreview.net/forum?id=Q74mey5NZl
+  Title: Transferring Preclinical Drug Response to Patient via Tumor Heterogeneity-Aware
+    Alignment and Perturbation Modeling
+- Author: Sazan Mahbub et al.
+  Link: https://openreview.net/forum?id=prYPSWtKCC
+  Title: 'PRISM: Enhancing Protein Inverse Folding through Fine-Grained Retrieval
+    on Structure-Sequence Multimodal Representations'
+- Author: Zohreh Piroozeh et al.
+  Link: https://openreview.net/forum?id=F8bxhsUsLO
+  Title: Interpretable prediction of DNA replication origins in S. cerevisiae using
+    attention-based motif discovery
+- Author: Andreas Bjerregaard et al.
+  Link: https://openreview.net/forum?id=7Fk9OnBziL
+  Title: Interpretable single-cell perturbations from decoder gradients
+- Author: Rushmila Shehreen Khan et al.
+  Link: https://openreview.net/forum?id=NYumxueWx2
+  Title: To trap or not to trap--analyzing the trade-offs in  diffusion transport
+    models
+- Author: Daniela Pinto Veizaga et al.
+  Link: https://openreview.net/forum?id=36mqwnxtnK
+  Title: Gene Set Function Discovery with LLM-Based Agents and Knowledge Retrieval
+- Author: Amber Qayum Hawabaz et al.
+  Link: https://openreview.net/forum?id=mpvp5KP8fR
+  Title: 'FACA-GEN: Investigating Bias and Generalization in Active Learning for Genomics
+    AI'
+- Author: Sam Blouir et al.
+  Link: https://openreview.net/forum?id=HrU10YCDoh
+  Title: 'BirdieDNA: Reward-Based Pre-Training for Genomic Sequence Modeling'
+- Author: Sajib Acharjee Dip et al.
+  Link: https://openreview.net/forum?id=Gg0850bgBy
+  Title: WASSERSTEIN CYCLEGAN FOR SINGLE-CELL RNA- SEQ DATA GENERATION USING CROSS-MODALITY  TRANSLATION
+- Author: Azmine Toushik Wasi et al.
+  Link: https://openreview.net/forum?id=4nh51vZXUr
+  Title: Pathway-Attentive GAN for Interpretable Biomolecular Design
+- Author: Saleh Afroogh et al.
+  Link: https://openreview.net/forum?id=B4KMAqeTfv
+  Title: 'Hallucinations vs. Predictions: Reframing Uncertainty in LLM-Generated Medical Responses'

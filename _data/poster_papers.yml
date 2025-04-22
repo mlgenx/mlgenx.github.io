@@ -1,0 +1,143 @@
+- Author: Jiwei Zhu et al.
+  Link: https://openreview.net/forum?id=o50KFyep7O
+  Title: 'SPACE: Your Genomic Profile Predictor is a Powerful DNA Foundation Model'
+- Author: Jessica Zhou et al.
+  Link: https://openreview.net/forum?id=YZBEBxtXyU
+  Title: Uncertainty-aware genomic deep learning with knowledge distillation
+- Author: Alan Nawzad Amin et al.
+  Link: https://openreview.net/forum?id=8SBZU35mxb
+  Title: Flexible Models of Functional Annotations to Variant Effects using Accelerated
+    Linear Algebra
+- Author: Jeremie Theddy Darmawan et al.
+  Link: https://openreview.net/forum?id=lHRETQDSVu
+  Title: Sampling Protein Language Models for Functional Protein Design
+- Author: Taro Makino et al.
+  Link: https://openreview.net/forum?id=cd8QEKFzOQ
+  Title: Supervised Contrastive Block Disentanglement
+- Author: Dai Shi et al.
+  Link: https://openreview.net/forum?id=zeIFBzx1hf
+  Title: Graph Pseudotime Analysis and Neural Stochastic Differential Equations for
+    Analyzing Retinal Degeneration Dynamics and Beyond
+- Author: Tancredi Cogne et al.
+  Link: https://openreview.net/forum?id=N5nhleVGAi
+  Title: Structure-based metabolite function prediction using graph neural networks
+- Author: Maxime Basse et al.
+  Link: https://openreview.net/forum?id=BZIxe22wEO
+  Title: Spatially-Informed Sampling Enables Accurate Prediction of Large-Scale Mutational
+    Effects
+- Author: Keyue Qiu et al.
+  Link: https://openreview.net/forum?id=R2LTPle31d
+  Title: Piloting Structure-Based Drug Design via Modality-Specific Optimal Schedule
+- Author: Wenmin Zhao et al.
+  Link: https://openreview.net/forum?id=xBxjRdkof9
+  Title: Detecting cell level transcriptomic changes of Perturb-seq using Contrastive
+    Fine-tuning of Single-Cell Foundation Models
+- Author: Carl Edwards et al.
+  Link: https://openreview.net/forum?id=BjAxwETx9V
+  Title: 'MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced
+    Molecular Property Prediction'
+- Author: Marc Boubnovski Martell et al.
+  Link: https://openreview.net/forum?id=ClewUE4sUK
+  Title: 'A Scalable LLM Framework for Therapeutic Biomarker Discovery: Grounding
+    Q/A Generation in Knowledge Graphs and Literature'
+- Author: Mingqian Ma et al.
+  Link: https://openreview.net/forum?id=BJ2uCHIfEW
+  Title: 'HybriDNA: A Hybird Transformer-Mamba2 Long-Range DNA Language Model'
+- Author: Yuxuan Song et al.
+  Link: https://openreview.net/forum?id=eZh2UyeMrg
+  Title: 'ShortListing Model: A Streamlined Simplex Diffusion for Biological Sequence
+    Generation'
+- Author: Dongmin Bang et al.
+  Link: https://openreview.net/forum?id=G2zzdbgKxl
+  Title: Predicting Drug-likeness via Biomedical Knowledge Alignment and EM-like One-Class
+    Boundary Optimization
+- Author: Izzy Newsham et al.
+  Link: https://openreview.net/forum?id=dj0Oz1NsAI
+  Title: Large Language Models for Zero-shot Inference of Causal Structures in Biology
+- Author: Tejumade Afonja et al.
+  Link: https://openreview.net/forum?id=bgGZIBF6Kx
+  Title: 'LLM4GRN: Discovering Causal Gene Regulatory Networks with LLMs – Evaluation
+    through Synthetic Data Generation'
+- Author: Ying Yang et al.
+  Link: https://openreview.net/forum?id=RdHLANURna
+  Title: A data-driven recommendation framework for genomic discovery
+- Author: Marian Huot et al.
+  Link: https://openreview.net/forum?id=4YMUZ49lB3
+  Title: Integrating Protein Language Model and Active Learning for Few-Shot Viral
+    Variant Detection
+- Author: Katarina Petrović et al.
+  Link: https://openreview.net/forum?id=Cv84fXtQPJ
+  Title: Curly Flow Matching for Learning Non-gradient Field Dynamics
+- Author: Alessandro Crnjar et al.
+  Link: https://openreview.net/forum?id=EIiM0eCjoz
+  Title: 'PIONEER: a virtual platform for iterative improvement of genomic deep learning'
+- Author: Aleksei Shmelev et al.
+  Link: https://openreview.net/forum?id=sla2edDxc3
+  Title: 'GENATATOR: de novo Gene Annotation With DNA Language Model'
+- Author: Zohar Rosenwasser et al.
+  Link: https://openreview.net/forum?id=L2jj5ekPxa
+  Title: Leveraging GPT Continual Fine-Tuning for Improved RNA Editing Site Prediction
+- Author: Akash Pandey et al.
+  Link: https://openreview.net/forum?id=4JGIrEGfYz
+  Title: 'COLOR: A COMPOSITIONAL LINEAR OPERATION BASED REPRESENTATION OF PROTEIN
+    SEQUENCES FOR  IDENTIFICATION OF MONOMER CONTRIBUTIONS TO  PROPERTIES'
+- Author: Qifei Wang et al.
+  Link: https://openreview.net/forum?id=e5uLntjTeD
+  Title: 'CellMemory: Hierarchical Interpretation of Out-of-Distribution Cells Using
+    Bottlenecked Transformer'
+- Author: Santanu Rathod et al.
+  Link: https://openreview.net/forum?id=hs1AWLx6U5
+  Title: PREDICTING TIME-VARYING METABOLIC DYNAMICS USING STRUCTURED NEURAL ODE PROCESSES
+- Author: Rohit Arora et al.
+  Link: https://openreview.net/forum?id=EXq8TWHJHI
+  Title: 'RNAGym: Benchmarks for RNA Fitness and Structure Prediction'
+- Author: Niklas Stotzem et al.
+  Link: https://openreview.net/forum?id=A8EkdmRBYX
+  Title: 'SpaceDX: A Bayesian test for localized differential expression in population-level
+    spatial transcriptomics datasets'
+- Author: Yoshitaka Inoue et al.
+  Link: https://openreview.net/forum?id=nZ8IjQcJsD
+  Title: 'GraphPINE: Graph importance propagation for interpretable drug response
+    prediction'
+- Author: Abhishek Sharma et al.
+  Link: https://openreview.net/forum?id=k4P5JXv69b
+  Title: 'ECG-Nest-FM: A Frequency-Focused ECG Foundation Model with Nested Embeddings'
+- Author: Artemy Bakulin et al.
+  Link: https://openreview.net/forum?id=DzlhvkuFqz
+  Title: 'NOLAN: SELF-SUPERVISED FRAMEWORK FOR MAPPING CONTINUOUS TISSUE ORGANIZATION'
+- Author: Alec Plotkin et al.
+  Link: https://openreview.net/forum?id=N9uuyDEUIY
+  Title: Featurization of sinlge cell trajectories through kernel mean embedding of
+    optimal transport maps
+- Author: Monireh Safari et al.
+  Link: https://openreview.net/forum?id=Kx3tpVG4M7
+  Title: Enhancing DNA Foundation Models to Address Masking Inefficiencies
+- Author: Yuning You et al.
+  Link: https://openreview.net/forum?id=hy12KXLT0K
+  Title: Building Foundation Models to Characterize Cellular Interactions via Geometric
+    Self-Supervised Learning on Spatial Genomics
+- Author: Beepul Bharti et al.
+  Link: https://openreview.net/forum?id=0X2jafslBR
+  Title: Uncovering BioLOGICAL Motifs and Syntax via Sufficient and Necessary Explanations
+- Author: Sajib Acharjee Dip et al.
+  Link: https://openreview.net/forum?id=Su1I7Z64hC
+  Title: 'LoFTPat: Low-Rank Subspace Optimization for Parameter-Efficient Fine-Tuning
+    of Genomic Language Models in Pathogenicity Identification'
+- Author: Yoonho Lee et al.
+  Link: https://openreview.net/forum?id=uZ6B53QSHZ
+  Title: Capturing functional context of genetic pathways through hyperedge disentanglement
+- Author: Tamsin Emily James et al.
+  Link: https://openreview.net/forum?id=YaEozn3y0G
+  Title: A Topologically Guided Machine Learning Framework for Enhanced Fine-Mapping
+    in Whole-Genome Bacterial Studies
+- Author: Shaozhong Zou et al.
+  Link: https://openreview.net/forum?id=SrPaXJdYmP
+  Title: Multiplexed DNA Assembly from Oligo-pools
+- Author: Marina Popova et al.
+  Link: https://openreview.net/forum?id=rDPEBwGVnY
+  Title: 'When repeats drive the vocabulary: a Byte-Pair Encoding analysis of T2T
+    primate genomes'
+- Author: Gurdeep Singh et al.
+  Link: https://openreview.net/forum?id=av4QhBNeZo
+  Title: 'Talk2Biomodels and Talk2KnowledgeGraph: AI agent-based application for prediction
+    of patient biomarkers and reasoning over biomedical knowledge graphs'

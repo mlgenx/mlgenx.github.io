@@ -1,12 +1,14 @@
-- title: Call for papers
-  url: /index.html#call_for_papers
-- title: Dates
-  url: /index.html#dates
-- title: Speakers
-  url: /index.html#speakers
+# - title: Call for papers
+#   url: /index.html#call_for_papers
 - title: Schedule
   url: /index.html#schedule
+- title: Speakers
+  url: /index.html#speakers
+- title: Accepted Papers
+  url: /index.html#papers
+- title: Dates
+  url: /index.html#dates
 - title: Organizers
   url: /index.html#organizers
-- title: Technical committee
-  url: /index.html#technical_committee
+# - title: Technical committee
+#   url: /index.html#technical_committee
