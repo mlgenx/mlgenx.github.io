@@ -1,15 +1,15 @@
-- Title: <b>Opening Remarks</b>
+- Title: <b>Opening Remark</b>
   Time: "09:00 - 09:15"
   Whole_line: true
-    
-- Title: '(<b>Oral Presentation</b>) "LangPert: LLM-Driven Contextual Synthesis for Unseen Perturbation Prediction"'
+
+- Title: (<b>Oral Presentation</b>) Test-Time View Selection for Multi-Modal Decision Making
   Time: "09:15 - 09:35"
-  Presenter: Kaspar Märtens
+  Presenter: Eeshaan Jain
   Is_paper: true
   Whole_line: false
-  Authors: Kaspar Märtens, Marc Boubnovski Martell, Cesar A. Prada-Medina, Rory Donovan-Maiye
-  Abstract: Systematic genetic perturbation provides critical insights into cell functioning, yet predicting their cellular effects remains a major challenge. Despite advances in computational approaches, accurately modelling cellular responses to unseen perturbations continues to be difficult. Large Language Models (LLMs) have shown promise in biological applications by synthesizing scientific knowledge, but their direct application to high-dimensional gene expression data has been impractical due to numerical limitations. We propose LangPert, a novel hybrid framework that leverages LLMs to guide a downstream k-nearest neighbors (kNN) aggregator, combining biological reasoning with efficient numerical inference. We demonstrate that LangPert achieves state-of-the-art performance on single-gene perturbation prediction tasks across multiple datasets.
-  Link: "https://openreview.net/forum?id=Tmx4o3Jg55"
+  Authors: Eeshaan Jain, Johann Wenckstern, Benedikt von Querfurth, Charlotte Bunne
+  Abstract: The clinical routine has access to an ever-expanding repertoire of diagnostic tests, ranging from routine imaging to sophisticated molecular profiling technologies. Foundation models have recently emerged as powerful tools for extracting and integrating diagnostic information from these diverse clinical tests, advancing the idea of comprehensive patient digital twins. However, it remains unclear how to select and design tests that ensure foundation models can extract the necessary information for accurate diagnosis. We introduce MAVIS (Multi-modal Active VIew Selection), a reinforcement learning framework that unifies modality selection and feature selection into a single decision process. By leveraging foundation models, MAVIS dynamically determines which diagnostic tests to perform and in what sequence, adapting to individual patient characteristics. Experiments on real-world datasets across multiple clinical tasks demonstrate that MAVIS outperforms conventional approaches in both diagnostic accuracy and uncertainty reduction, while reducing testing costs by over 80%, suggesting a promising direction for optimizing clinical workflows through intelligent test design and selection.
+  Link: "https://openreview.net/forum?id=aNmZ9s6BZV"
 
 - Title: (<b>Oral Presentation</b>) Efficient Fine-Tuning Of Single-Cell Foundation Models Enables Zero-Shot Molecular Perturbation Prediction
   Time: "09:40 - 10:00"
@@ -19,58 +19,42 @@
   Authors: Sepideh Maleki, Jan-Christian Huetter, David Richmond, Kangway V. Chuang, Gabriele Scalia, Tommaso Biancalani
   Abstract: Predicting transcriptional responses to novel drugs provides a unique opportunity to accelerate biomedical research and advance drug discovery efforts. However, the inherent complexity and high dimensionality of cellular responses, combined with the extremely limited available experimental data, makes the task challenging. In this study, we leverage single-cell foundation models (FMs) pre-trained on tens of millions of single cells, encompassing multiple cell types, states, and disease annotations, to address molecular perturbation prediction. We introduce a drug-conditional adapter that allows efficient fine-tuning by training less than 1% of the original foundation model, thus enabling molecular conditioning while preserving the rich biological representation learned during pre-training. The proposed strategy allows not only the prediction of cellular responses to novel drugs, but also the zero-shot generalization to unseen cell lines. We establish a robust evaluation framework to assess model performance across different generalization tasks, demonstrating state-of-the-art results across all settings, with significant improvements in the few-shot and zero-shot generalization to new cell lines compared to existing baselines.
   Link: "https://openreview.net/forum?id=XYbl2uefvm"
-  
+
 - Title: <b>Coffee Break</b>
   Time: "10:00 - 10:15"
   Whole_line: true
 
-- Title: (<b>Invited Talk</b>) TBD
+- Title: (<b>Invited Talk</b>) Empowering Biomedical Discovery with "AI Scientists"
   Time: "10:15 - 11:00"
-  Presenter: TBD
+  Presenter: Marinka Zitnik
   Is_paper: false
   Whole_line: false
-  Bio: TBD
-  Abstract: TBD
 
-- Title: (<b>Invited Talk</b>) TBD
-  Time: "11:00 - 11:45"
-  Presenter: TBD
-  Is_paper: false
-  Whole_line: false
-  Bio: TBD
-  Abstract: TBD
-
-- Title: <b>Lunch Break</b>
-  Time: "11:45 - 13:15"
-  Whole_line: true
-
-- Title: <b>Panel Talk</b>
-  Time: "13:15 - 14:15"
-  Whole_line: true
-
-- Title: (<b>Invited Talk</b>) TBD
-  Time: "14:15 - 15:00"
-  Presenter: TBD
-  Is_paper: false
-  Whole_line: false
-  Bio: TBD
-  Abstract: TBD
-
-- Title: <b>Coffee Break</b>
-  Time: "15:00 - 15:15"
-  Whole_line: true
-
-- Title: (<b>Oral Presentation</b>) Test-Time View Selection for Multi-Modal Decision Making
-  Time: "15:15 - 15:35"
-  Presenter: Eeshaan Jain
+- Title: '(<b>Oral Presentation</b>) "LangPert: LLM-Driven Contextual Synthesis for Unseen Perturbation Prediction"'
+  Time: "11:05 - 11:25"
+  Presenter: Kaspar Märtens
   Is_paper: true
   Whole_line: false
-  Authors: Eeshaan Jain, Johann Wenckstern, Benedikt von Querfurth, Charlotte Bunne
-  Abstract: The clinical routine has access to an ever-expanding repertoire of diagnostic tests, ranging from routine imaging to sophisticated molecular profiling technologies. Foundation models have recently emerged as powerful tools for extracting and integrating diagnostic information from these diverse clinical tests, advancing the idea of comprehensive patient digital twins. However, it remains unclear how to select and design tests that ensure foundation models can extract the necessary information for accurate diagnosis. We introduce MAVIS (Multi-modal Active VIew Selection), a reinforcement learning framework that unifies modality selection and feature selection into a single decision process. By leveraging foundation models, MAVIS dynamically determines which diagnostic tests to perform and in what sequence, adapting to individual patient characteristics. Experiments on real-world datasets across multiple clinical tasks demonstrate that MAVIS outperforms conventional approaches in both diagnostic accuracy and uncertainty reduction, while reducing testing costs by over 80%, suggesting a promising direction for optimizing clinical workflows through intelligent test design and selection.
-  Link: "https://openreview.net/forum?id=aNmZ9s6BZV"
+  Authors: Kaspar Märtens, Marc Boubnovski Martell, Cesar A. Prada-Medina, Rory Donovan-Maiye
+  Abstract: Systematic genetic perturbation provides critical insights into cell functioning, yet predicting their cellular effects remains a major challenge. Despite advances in computational approaches, accurately modelling cellular responses to unseen perturbations continues to be difficult. Large Language Models (LLMs) have shown promise in biological applications by synthesizing scientific knowledge, but their direct application to high-dimensional gene expression data has been impractical due to numerical limitations. We propose LangPert, a novel hybrid framework that leverages LLMs to guide a downstream k-nearest neighbors (kNN) aggregator, combining biological reasoning with efficient numerical inference. We demonstrate that LangPert achieves state-of-the-art performance on single-gene perturbation prediction tasks across multiple datasets.
+  Link: "https://openreview.net/forum?id=Tmx4o3Jg55"
 
-- Title: (<b>Oral Presentation</b>) Ai Agent For Data-Driven Hypothesis Exploration In Single-Cell Transcriptomics
-  Time: "15:35 - 15:55"
+- Title: <b>Lunch Break</b>
+  Time: "11:30 - 13:00"
+  Whole_line: true
+
+- Title: (<b>Invited Talk</b>) Jure Leskovec
+  Time: "13:00 - 13:45"
+  Presenter: Jure Leskovec
+  Is_paper: false
+  Whole_line: false
+
+- Title: (<b>Panel Discussion</b>) Limsoon Wong, Gabriele Scalia, Daniel Burkhardt
+  Time: "13:45 - 14:40"
+  Whole_line: true
+
+- Title: (<b>Oral Presentation</b>) AI Agent For Data-Driven Hypothesis Exploration In Single-Cell Transcriptomics
+  Time: "14:40 - 15:00"
   Presenter: Artemy Bakulin
   Is_paper: true
   Whole_line: false
@@ -78,10 +62,26 @@
   Abstract: Large Language Models (LLMs) have the ability to utlilize expert knowledge and simulate human thinking, which potentially makes them instrumental for a variety of scientific tasks. However, since scientific data is heterogeneous, often presented in the form of unordered tables, bridging the gap between unstructured non-textual data and the language processing capabilities of LLMs remains an open challenge. Agentic AI offers a promising approach by enabling LLMs to interactively query datasets for relevant information. Here, we explore the application of this agentic paradigm to single-cell transcriptomic analysis, with a specific focus on cell type annotation. Our results show that when LLMs are equipped with data-querying capabilities, their performance in annotating cell types improves significantly compared to single-shot prompting. Furthermore, we provide a proof of concept illustration of how our method can be used to integrate diverse single-cell datasets (e.g., cell census), ensuring consistent annotation across multiple sources, facilitating meta-analysis across big sample cohorts.
   Link: "https://openreview.net/forum?id=DjxLkshuSx"
 
-- Title: <b>Poster Session</b>
-  Time: "16:00 - 17:30"
+- Title: <b>Coffee Break</b>
+  Time: "15:00 - 15:15"
   Whole_line: true
 
-- Title: <b>Closing Remarks & Best Paper Award Ceremony</b>
-  Time: "17:30 - 17:45"
+- Title: "(<b>Invited Talk</b>) The Next Genomics Frontier: From Risk Prediction to Digital Twins"
+  Time: "15:15 - 16:00"
+  Presenter: Mihaela van der Schaar
+  Is_paper: false
+  Whole_line: false
+
+- Title: <b>Poster Session - In Person</b>
+  Time: "16:00 - 17:25"
   Whole_line: true
+
+- Title: <b>Closing Remark</b>
+  Time: "17:25 - 17:30"
+  Whole_line: true
+
+- Title: (<b>Invited Talk</b>) Large Language Models and AI Agents in Cancer Research and Oncology
+  Time: "17:35 - 18:00"
+  Presenter: Jakob Nikolas Kather
+  Is_paper: false
+  Whole_line: false
