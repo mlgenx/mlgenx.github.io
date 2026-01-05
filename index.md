@@ -18,14 +18,8 @@ permalink: /
 
 <br>
 <p>
-Our limited understanding of the biological mechanisms underlying diseases remains a critical
-bottleneck in drug discovery. As a result, we often lack insights into why patients develop specific conditions,
-leading to the failure of many drug candidates in clinical trials. Recent advancements in genomics platforms
-and the emergence of diverse omics datasets have sparked increasing interest in this field. The primary
-objective of this workshop is to bridge the gap between machine learning and genomics, emphasizing target
-identification and emerging drug modalities such as gene and cell therapies and RNA-based drugs. By
-fostering interdisciplinary collaboration, we aim to advance the integration of these disciplines and accelerate
-innovation in drug discovery.</p>
+Despite rapid advances in data-driven biology, our limited understanding of the biological mechanisms underlying diseases continues to hinder therapeutic innovation. While genomics and multi-omics platforms have generated vast datasets, translating these into actionable biological insights remains an open challenge. At the same time, the emergence of foundation models and AI agents capable of reasoning, planning, and hypothesis generation offers a unique opportunity to reimagine how we approach discovery in biology. The 3rd MLGenX workshop aims to bring together the machine learning, genomics, and biology communities to explore this new frontier. This year’s theme, <strong>From Reasoning to Experimentation: Closing the Loop Between AI Agents and the Biological Lab</strong>, focuses on adaptive, interpretable, and experiment-aware AI systems that learn from feedback and drive biological insight. By fostering interdisciplinary collaboration, benchmark sharing, and open discussion, MLGenX 2026 aims to chart the path toward lab-in-the-loop science and accelerate innovation in biology and drug discovery.
+</p>
 <br>
 </div>
 
@@ -35,162 +29,110 @@ innovation in drug discovery.</p>
 
 <br>
 <!-- Call for Papers -->
-<!-- <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2> -->
+<h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
-<!-- <p>
-This year, the workshop will feature three distinct tracks designed to welcome a diverse array of researchers
-in the field of machine learning and biology: the Main Track including application and ML topics, the
-Special Track on LLMs and Agentic AI, and the Tiny Papers Track. Papers in the main and the special tracks must be prepared and submitted as a single file: 8 pages for the paper, with unlimited pages for references, the impact statement, and appendices.
-</p>
 <p>
-Both contributions introducing new ML methods to existing problems and those that highlighting and explaining open problems are welcome. 
-We also encourage submissions related to application of molecular biology, including but not limited to, single-cell RNA analysis, bulk RNA studies, proteomics, and microscopy imaging of cells and/or tissues.
+MLGenX 2026 invites submissions from researchers at the intersection of machine learning, genomics, and
+biological discovery. This year, the workshop will feature four tracks designed to welcome a diverse range
+of contributions: the <b>Main Track</b>, the <b>Special Track on Lab-in-the-Loop and Self-Evolving Systems</b>,
+the <b>Tiny Papers Track</b>, and a new <b>AI-Generated Track</b>.
+By providing dedicated spaces for applied ML in biology, methodological innovation, early-stage ideas,
+and AI serving as a primary author, MLGenX 2026 aims to highlight the next frontier of target discovery—
+closing the loop between reasoning, experimentation, and adaptation.
 </p>
-<p>
-We consider a broad range of subject areas including but not limited to the following topics.
-</p> -->
 
-<!--
+<p><b>Main Track</b></p>
+<p>
+The Main Track welcomes contributions addressing foundational and applied challenges at the intersection
+of machine learning, biology, and genomics. We encourage work on methodological advances as well as
+biologically grounded applications that connect predictive modeling to scientific understanding and
+therapeutic impact.
+</p>
+
 <ul>
-    <li>
-	<u><b>Biological sequence design</b></u>: Prediction and optimization of biological sequences, incorporating constraints and prior knowledge
-    </li>
-	<ul>
-	    <li>
-	        Effectively miniaturize DNA/RNA/Protein sequences while preserving their key properties
-	    </li>
-	    <li>
-	        Multi-omics-based sequence design
-	    </li>
-	    <li>
-		Modeling long-range sequence interactions
-	    </li>
-	    <li>
-		Tissue/cell-type specific sequence design
-	    </li>
-	</ul>
-
-    <li>
-	<u><b>Inferring cellular communication via cell states and organization in tissues</b></u>: Causal representation learning to model cell states and cellular communities 
-    </li>
-	<ul>
-
-	    <li>
-		Multi-omics data integration (single cell, spatial transcriptomics)
-	    </li>
-	    <li>
-		Cell-cell interactions inference
-	    </li>
-	    <li>
-		Mechanistic modeling of cells in their context to infer cellular function
-	    </li>
-	    <li>
-		Modeling long-range interactions in single-cell and spatial omics
-	    </li>
-	</ul>
-
-    <li>
-	<u><b>Perturbative biology</b></u>: Interpretable and foundation models to understand cellular responses to perturbations
-    </li>
-	<ul>
-
-	    <li>
-		Translating genetic perturbations to understandable and actionable molecular changes
-	    </li>
-	    <li>
-		Causal reasoning for learning gene regulatory networks
-	    </li>
-	    <li>
-		Integrating multimodal perturbation readouts (transcriptomic and phenotypic) to better characterize the broader molecular effects
-	    </li>
-	    <li>
-		Large-scale foundation models for predicting transcriptional outcomes of novel perturbations
-	    </li>
-	    <li>
-		Generalizability of perturbation predictive models across cell lines and cellular contexts
-	    </li>
-	</ul>
+    <li>Foundation models and agentic AI for biological and multi-omics data</li>
+    <li>Causal discovery, mechanistic interpretability, and biologically grounded representations</li>
+    <li>Generalizability and uncertainty quantification across biological domains and modalities</li>
+    <li>Design and perturbation biology, including gene, cell, and RNA-based therapies</li>
+    <li>Cellular communication, tissue organization, and spatial or single-cell modeling</li>
 </ul>
 
-<h5>From first principles: AI for Genomics Exploration</h5>
--->
-<!-- <p><b>Main Track</b>:</p>
-<ul>
-    <li>Foundation models for genomics
-    </li>
-    <li>Biological sequence design
-    </li>
-    <li>Interpretability and Generalizability in genomics
-    </li>
-    <li>Causal representation learning
-    </li>
-    <li>Perturbation biology
-    </li>
-    <li>Modeling long-range dependencies in sequences, single-cell and spatial omics
-    </li>
-    <li>Integrating multimodal perturbation readouts
-    </li>
-    <li>Active learning in genomics
-    </li>
-    <li>Generative models in Biology
-    </li>
-    <li>Multimodal representation learning
-    </li>
-    <li>Uncertainty quantification
-    </li>
-    <li>Optimal transport
-    </li>
-    <li>Experimental design for Biology
-    </li>
-    <li>Graph neural network and knowledge graph
-    </li>
-    <li>New datasets and benchmarks for genomics explorations
-    </li>
-</ul>
+<p><b>Special Track on Lab-in-the-Loop and Self-Evolving Systems</b></p>
+<p>
+This track focuses on AI systems that learn through interaction with experimental feedback—moving from
+static predictive models toward adaptive, experiment-aware agents. Topics include lab-in-the-loop
+frameworks, active learning with experimental or simulated feedback, and autonomous or self-evolving
+agentic systems that iteratively generate, test, and refine biological hypotheses.
+</p>
 
-<p><b>Special Track on LLMs and Agentic AI</b>:</p>
-<ul>
-    <li>Pre-training multi-omics models
-    </li>
-    <li>Synthetic data generation and data quality for pre-training, fine-tuning and instruction tuning
-    </li>
-    <li>Fine-tuning (SFT, RLHF, RL with lab feedback, ...) on novel tasks
-    </li>
-    <li>In-context learning with large-context models
-    </li>
-    <li>Reasoning through prompt engineering or architectural design
-    </li>
-    <li>Interpretability and uncertainty quantification
-    </li>
-    <li>Knowledge retrieval (RAG, knowledge graph, ...)
-    </li>
-    <li>Efficient interactive system designs (agents, humans, and biological tools)
-    </li>
-    <li>Training/fine-tuning LLM-powered design and planning engine
-    </li>
-</ul> -->
+<p><b>Tiny Papers Track</b></p>
+<p>
+The Tiny Papers Track provides a venue for short (3–4 page) submissions presenting early-stage ideas,
+negative results, position papers, or preliminary findings. This track aims to lower the barrier for
+participation and highlight creative or exploratory directions. AI-generated papers are not permitted
+in this track.
+</p>
 
-<!-- <p><b>Tiny Papers Track</b>:</p>
-<p>This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-4 pages in ICLR format) paper submissions, with an eye towards inclusion; see ​​<a href="https://iclr.cc/Conferences/2025/CallForTinyPapers">https://iclr.cc/Conferences/2025/CallForTinyPapers</a> for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on <a href="https://iclr.cc/Conferences/2025/">https://iclr.cc/Conferences/2025/</a> at the beginning of February and close on March 2nd.</p> -->
+<p><b>AI-Generated Track</b></p>
+<p>
+MLGenX 2026 introduces a new AI-Generated Track for submissions where AI systems serve as a substantial
+contributor or primary author, under clear human oversight. Papers in this track should align with the
+Main Track or Special Track themes and follow standard ICLR formatting guidelines.
+Submissions must clearly disclose the role of AI systems and adhere to ICLR policies on large language
+model usage and research ethics.
+</p>
 
 
+<h3 class="blackpar_title">Journal Partnership</h3>
+<p>
+<b>Partnership with <em>Nature Biotechnology</em>.</b>
+Top workshop contributions will be eligible for a fast-track review process at
+<em>Nature Biotechnology</em>. Participation is optional and offered after acceptance
+notifications. Selected authors will be invited to expand evaluations and address
+reviewer comments prior to transfer to the journal.
+</p>
 
-<!-- <h3 class="blackpar_title">Submission Instructions</h3>
+
+<h3 class="blackpar_title">Submission Instructions</h3>
 <p>
 Similar to the main ICLR conference, submissions will be double blind.  
-We use <a href="https://openreview.net/group?id=ICLR.cc/2025/Workshop/MLGenX#tab-your-consoles">OpenReview</a> to host papers. There will be a strict upper limit of 8 pages for the main text of the submission in the main and special tracks, and 4 pages for the main text of the submission in the tiny paper track, with unlimited additional pages for citations and appendices. To prepare your submission, please use the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip">ICLR template style</a>.
+We use <a href="https://openreview.net/">OpenReview</a> to host papers. There is no strict page limit for submissions to the Main Track or the Special Track.
+Submissions to the AI-Generated Track must not exceed 8 pages for the main text,
+and submissions to the Tiny Papers Track must not exceed 4 pages for the main text.
+References and appendices may be of unlimited length.
+To prepare your submission, please use the official
+<a href="https://github.com/ICLR/Master-Template/raw/master/iclr2026.zip">ICLR template</a>.
 </p>
 <p>
 Submissions that are identical to versions that have been previously published, or accepted to the main ICLR conference are not allowed. However, papers that cite previous related work by the authors and papers that have appeared on non-peer reviewed websites (like arXiv) do not violate the policy. Submission of the paper to archival repositories such as arXiv is allowed during the review period.
 </p>
 <p>
-<b>Note:</b><span style="color: #D2042D"> Authors are permitted to submit works that are currently under review by other venues. Additionally, accepted papers are not considered archival and can be subsequently published in other conferences or journals.</span> 
-</p>
-<p>
-We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions will be chosen for oral presentations. Please note that while our workshop is not archival, accepted papers will be featured on the workshop website.
+<b>Note:</b>
+<span style="color: #D2042D">
+Authors are permitted to submit works that are currently under review by other venues.
+Additionally, accepted workshop papers are non-archival and may be subsequently
+published in conferences or journals.
+</span>
 </p>
 
-<p> <b>Note:</b> Official reviews are anonymous, and unlike the main  conference, the papers and reviews are not made public until acceptance!</p> -->
+<p>
+We plan to offer <b>Best Paper</b> Award(s), and exceptional submissions may be selected
+for oral presentations. Accepted papers will be featured on the workshop website.
+</p>
+
+<p>
+<b>Additional Track-Specific Notes:</b>
+Submissions to the AI-Generated Track must clearly disclose the role of AI systems and
+human contributors and must comply with ICLR policies on large language model usage
+and research ethics. AI-generated submissions are not permitted in the Tiny Papers
+Track.
+</p>
+
+<p>
+<b>Note:</b>
+Official reviews are anonymous. Unlike the main conference, submissions and reviews
+will not be made public until acceptance.
+</p>
 
 
 
@@ -209,27 +151,27 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <!-- Basic Information -->
 <p style="font-weight: 400; font-size: 1.5rem; color: #2c3e50;">
   📢 <strong>MLGenX Workshop</strong> will take place on <strong>Sunday April 27th</strong> in Room <strong>Garnet 212–213</strong>!
-</p>
+</p> -->
 
 
-<!-- Schedule -->
+<!-- Schedule
 <br>
 <h2 class="blackpar_title" id="schedule">Schedule</h2>
 <p>
 {% include schedule.html %}
-</p>
+</p>  -->
 
 
-<!-- Speakers -->
+<!-- Speakers 
 <br>
 <h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
 <p>
 {% include speakers.html %}
-</p>
+</p> -->
 
 
 
-<!-- Accepted Papers -->
+<!-- Accepted Papers 
 <br>
 <h2 class="blackpar_title" id="papers">Accepted Papers</h2>
 <p>
@@ -240,7 +182,7 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 </p>
 <p>
 {% include tiny_papers.html %}
-</p>
+</p> 
 
 <h3 class="blackpar_title">Camera Ready Instructions</h3>
 <p>
@@ -249,7 +191,7 @@ An email with instructions for uploading camera-ready submissions will go out mi
 <ul>
     <li>The authors can use one additional page beyond the page limit specified during the submission (9 pages for main/special track papers and 5 pages for tiny track papers). This extra page can be used to appropriately address the comments received during the review process.
     </li>
-</ul>
+</ul> -->
 <!--
 <h3 class="blackpar_title">Call for Reviewers</h3>
 <p>
@@ -259,15 +201,14 @@ We are looking for reviewers with expertise in machine learning or computational
 <h3 class="blackpar_title" id="dates">Important Dates</h3>
 <p>
 All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have an OpenReview profile when submitting.
-<p>
-<ul>
-    <li>Submission Deadline (<b>Main and Special Tracks</b> - Up to 8 pages): <del> February 12, 2025 </del> <span style="color: #D2042D"> February 16, 2025 </span></li>
-    <li>Submission Deadline (<b>Tiny Papers Track</b> - Up to 4 pages): <span style="color: #D2042D">February 23, 2025 </span></li>
-    <li>Acceptance Notification: March 5, 2025 </li>
-    <li>Camera-Ready Deadline: April 24, 2025 </li>
-    <li>Workshop Date: Sunday, April 27, 2025 </li>
-</ul>
 </p>
+
+<ul>
+    <li>Main &amp; Special Track Submission Deadline: February 2, 2026</li>
+    <li>Tiny Papers Track Submission Deadline: February 8, 2026</li>
+    <li>Acceptance Notification (all tracks): March 1, 2026</li>
+</ul>
+
 
 <!-- Organizers -->
 <h2 class="blackpar_title" id="organizers">Organizers</h2>
@@ -275,11 +216,11 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 {% include organizers.html %}
 </p>
 
-<!-- Organizers -->
+<!-- Organizers 
 <h2 class="blackpar_title" id="students">Student Organizers</h2>
 <p>
 {% include students.html %}
-</p>
+</p> -->
 
 
 
