@@ -2,8 +2,8 @@
   url: /index.html#call_for_papers
 # - title: Schedule
 #   url: /index.html#schedule
-# - title: Speakers
-#   url: /index.html#speakers
+- title: Speakers
+  url: /index.html#speakers
 # - title: Accepted Papers
 #   url: /index.html#papers
 - title: Dates
@@ -12,4 +12,5 @@
   url: /index.html#organizers
 # - title: Technical committee
 #   url: /index.html#technical_committee
+
 
