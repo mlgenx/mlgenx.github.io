@@ -175,13 +175,7 @@ will not be made public until acceptance.
 
 
 
-<!-- Speakers 
-<br>
-<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
-<p>
-{% include speakers.html %}
-</p> 
--->
+
 
 
 
@@ -202,6 +196,13 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
     <li>Tiny Papers Track Submission Deadline: February 8, 2026</li>
     <li>Acceptance Notification (all tracks): March 1, 2026</li>
 </ul>
+
+<!-- Speakers  -->
+<br>
+<h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
+<p>
+{% include speakers.html %}
+</p> 
 
 
 <!-- Organizers -->
