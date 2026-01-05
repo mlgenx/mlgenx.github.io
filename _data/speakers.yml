@@ -1,46 +1,42 @@
 - num_row: 1
   speakers:
-    - name: Marinka Zitnik
-      affiliation: Harvard University
-      photo: marinka_zitnik.jpg
-      url: https://scholar.google.com/citations?user=YtUDgPIAAAAJ&hl=en
-    - name: Jure Leskovec
-      affiliation: Stanford University
-      photo: jure.jpeg
-      url: https://scholar.google.com/citations?user=Q_kKkIUAAAAJ&hl=en&oi=ao
-    - name: Shekoofeh Azizi
-      affiliation: Google DeepMind
-      photo: shek.jpg
-      url: https://scholar.google.com/citations?user=BkRk4FwAAAAJ&hl=en
-
+    - name: Charlotte Bunne
+      affiliation: EPFL
+      photo: charlotte.jpg
+      url: https://scholar.google.com/citations?user=U80atIAAAAAJ&hl=en&oi=ao
+    - name: Bo Wang
+      affiliation: University of Toronto
+      photo: BoWang.jpg
+      url: https://scholar.google.com/citations?user=37FDILIAAAAJ&hl=en
+    - name: Smita Krishnaswamy
+      affiliation: Yale University
+      photo: smita.jpeg
+      url: https://scholar.google.com/citations?user=l2Pr9m8AAAAJ&hl=en
 
 - num_row: 2
   speakers:
-    - name: Mihaela van der Schaar
-      affiliation: University of Cambridge
-      photo: mihaela.jpeg
-      url: https://scholar.google.com/citations?user=DZ3S--MAAAAJ&hl=en&oi=ao
-    - name: Djork-Arne Clevert
-      affiliation: Pfizer
-      photo: djork.jpeg
-      url: https://scholar.google.com/citations?user=id2clmMAAAAJ&hl=en
-    - name: Limsoon Wong
-      affiliation: National University of Singapore
-      photo: limsoon.jpeg
-      url: https://scholar.google.com/citations?user=Inqu8SkAAAAJ&hl=en
+    - name: Hani Goodarzi
+      affiliation: UCSF
+      photo: hani.jpeg
+      url: https://scholar.google.com/citations?user=FnlT7s0AAAAJ&hl=en
+    - name: James Zou
+      affiliation: Stanford University
+      photo: JamesZou.jpeg
+      url: https://scholar.google.com/citations?user=23ZXZvEAAAAJ&hl=en
+    - name: Kyunghyun Cho
+      affiliation: New York University, Genentech
+      photo: kyunghyun.jpeg
+      url: https://scholar.google.com/citations?user=0RAmmIAAAAAJ&hl=en
 
 
 - num_row: 3
   speakers:
-    - name: Jakob Nikolas Kather
-      affiliation: NCT, TDU
-      photo: jakob.jpeg
-      url: https://scholar.google.com/citations?user=w6-uFdEAAAAJ&hl=en
-    - name: Daniel Burkhardt
-      affiliation: NVIDIA
-      photo: DanielBurkhardt.jpg
-      url: https://scholar.google.com/citations?user=I6nEXZMAAAAJ&hl=en
-    - name: Aya Abdelsalam Ismail
-      affiliation: Guide Labs
-      photo: aya.jpg
-      url: https://scholar.google.com/citations?user=VDhTJHUAAAAJ&hl=en
+    - name: Kathy Wei
+      affiliation: 310.ai
+      photo: kathy.jpg
+      url: https://scholar.google.com/citations?user=ThX81BYAAAAJ&hl=en
+    - name: Catherine Tong
+      affiliation: Isomorphic Labs
+      photo: CatherineTong.jpg
+      url: https://scholar.google.com/citations?user=nfv_AZoAAAAJ&hl=en
+
