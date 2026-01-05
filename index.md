@@ -160,7 +160,8 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <h2 class="blackpar_title" id="schedule">Schedule</h2>
 <p>
 {% include schedule.html %}
-</p>  -->
+</p>  
+-->
 
 
 <!-- Speakers 
@@ -168,7 +169,8 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 <h2 class="blackpar_title" id="speakers">Tentative Speakers & Panelists</h2>
 <p>
 {% include speakers.html %}
-</p> -->
+</p> 
+-->
 
 
 
@@ -192,7 +194,8 @@ An email with instructions for uploading camera-ready submissions will go out mi
 <ul>
     <li>The authors can use one additional page beyond the page limit specified during the submission (9 pages for main/special track papers and 5 pages for tiny track papers). This extra page can be used to appropriately address the comments received during the review process.
     </li>
-</ul> -->
+</ul> 
+-->
 <!--
 <h3 class="blackpar_title">Call for Reviewers</h3>
 <p>
@@ -221,7 +224,8 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <h2 class="blackpar_title" id="students">Student Organizers</h2>
 <p>
 {% include students.html %}
-</p> -->
+</p>
+-->
 
 
 
