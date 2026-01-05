@@ -14,25 +14,20 @@
     - name: Arman Hasanzadeh
       photo: arman.jpeg
       url: https://scholar.google.com/citations?user=jjNcpoEAAAAJ&hl=en
-    - name: Mengdi Wang
-      photo: mangi.jpeg
-      url: https://scholar.google.com/citations?user=33yNvIgAAAAJ&hl=en
+    - name: Mihaela van der Schaar
+      photo: mihaela.jpeg
+      url: https://scholar.google.com/citations?user=DZ3S--MAAAAJ&hl=en
     - name: Tommaso Biancalani
       photo: tommaso.jpg
       url: https://www.gene.com/scientists/our-scientists/tommaso-biancalani
 - num_row: 3
   organizers:
-    - name: Sara Mostafavi
-      photo: sara.jpeg
-      url: https://scholar.google.com/citations?user=nBL0J6kAAAAJ&hl=en
+    - name: Wei Qiu
+      photo: wei.jpeg
+      url: https://scholar.google.com/citations?user=SSQAAlIAAAAJ
     - name: Aïcha Bentaieb
       photo: aichabentaieb.jpeg
       url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
     - name: Gabriele Scalia
       photo: gabriele_scalia.jpeg
       url: https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it
-- num_row: 4
-  organizers:
-    - name: Edward De Brouwer
-      photo: edward.jpeg
-      url: https://scholar.google.com/citations?user=-Pm4XtAAAAAJ&hl=fr
