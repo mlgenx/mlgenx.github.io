@@ -17,7 +17,7 @@
   speakers:
     - name: Hani Goodarzi
       affiliation: UCSF
-      photo: hani.jpeg
+      photo: hani.jpg
       url: https://scholar.google.com/citations?user=FnlT7s0AAAAJ&hl=en
     - name: James Zou
       affiliation: Stanford University
@@ -39,5 +39,6 @@
       affiliation: Isomorphic Labs
       photo: CatherineTong.jpg
       url: https://scholar.google.com/citations?user=nfv_AZoAAAAJ&hl=en
+
 
 
