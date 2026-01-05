@@ -20,6 +20,11 @@ permalink: /
 <p>
 Despite rapid advances in data-driven biology, our limited understanding of the biological mechanisms underlying diseases continues to hinder therapeutic innovation. While genomics and multi-omics platforms have generated vast datasets, translating these into actionable biological insights remains an open challenge. At the same time, the emergence of foundation models and AI agents capable of reasoning, planning, and hypothesis generation offers a unique opportunity to reimagine how we approach discovery in biology. The 3rd MLGenX workshop aims to bring together the machine learning, genomics, and biology communities to explore this new frontier. This year’s theme, <strong>From Reasoning to Experimentation: Closing the Loop Between AI Agents and the Biological Lab</strong>, focuses on adaptive, interpretable, and experiment-aware AI systems that learn from feedback and drive biological insight. By fostering interdisciplinary collaboration, benchmark sharing, and open discussion, MLGenX 2026 aims to chart the path toward lab-in-the-loop science and accelerate innovation in biology and drug discovery.
 </p>
+
+<p style="margin-top: 0.8rem; font-size: 1.1rem;">
+  <b>Theme (2026):</b> <em>From Reasoning to Experimentation: Closing the Loop Between AI Agents and the Biological Lab</em>
+</p>
+
 <br>
 </div>
 
@@ -32,55 +37,87 @@ Despite rapid advances in data-driven biology, our limited understanding of the 
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
 <p>
-MLGenX 2026 invites submissions from researchers at the intersection of machine learning, genomics, and
-biological discovery. This year, the workshop will feature four tracks designed to welcome a diverse range
-of contributions: the <b>Main Track</b>, the <b>Special Track on Lab-in-the-Loop and Self-Evolving Systems</b>,
-the <b>Tiny Papers Track</b>, and a new <b>AI-Generated Track</b>.
-By providing dedicated spaces for applied ML in biology, methodological innovation, early-stage ideas,
-and AI serving as a primary author, MLGenX 2026 aims to highlight the next frontier of target discovery—
-closing the loop between reasoning, experimentation, and adaptation.
+MLGenX 2026 invites submissions from researchers at the intersection of machine learning,
+genomics, and biological discovery. This year, the workshop will feature four tracks designed
+to welcome a diverse range of contributions: the <b>Main Track</b>, the
+<b>Special Track on Lab-in-the-Loop and Self-Evolving Systems</b>, the
+<b>Tiny Papers Track</b>, and a new <b>AI-Generated Track</b>.
+By providing dedicated spaces for applied ML in biology, methodological innovation,
+early-stage ideas, and AI serving as a primary author, MLGenX 2026 aims to highlight the
+next frontier of target discovery—closing the loop between reasoning, experimentation,
+and adaptation.
 </p>
 
 <p><b>Main Track</b></p>
 <p>
-The Main Track welcomes contributions addressing foundational and applied challenges at the intersection
-of machine learning, biology, and genomics. We encourage work on methodological advances as well as
-biologically grounded applications that connect predictive modeling to scientific understanding and
-therapeutic impact.
+The Main Track welcomes contributions spanning both <b>machine learning methodology</b> and
+<b>biologically grounded applications</b> at the intersection of ML, biology, and genomics.
+Representative topics include, but
+<span style="color:#D2042D; font-weight:bold;">are not limited to</span>:
 </p>
 
 <ul>
-    <li>Foundation models and agentic AI for biological and multi-omics data</li>
-    <li>Causal discovery, mechanistic interpretability, and biologically grounded representations</li>
-    <li>Generalizability and uncertainty quantification across biological domains and modalities</li>
-    <li>Design and perturbation biology, including gene, cell, and RNA-based therapies</li>
-    <li>Cellular communication, tissue organization, and spatial or single-cell modeling</li>
+    <li>
+        <b>Foundation models and agentic AI:</b> scalable training and fine-tuning, in-context learning
+        for biological and multi-omics data, and agentic systems for reasoning and tool use.
+    </li>
+    <li>
+        <b>Causality and mechanistic interpretability:</b> causal discovery, counterfactual modeling,
+        and biologically grounded representations to reveal mechanism rather than correlation.
+    </li>
+    <li>
+        <b>Generalizability and uncertainty quantification:</b> robust transfer across biological domains,
+        modalities, and experimental settings.
+    </li>
+    <li>
+        <b>Design of regulatory sequence elements:</b> ML for DNA, RNA, and gene or cell therapeutics,
+        including sequence-to-function modeling and AI-assisted CRISPR and RNA design.
+    </li>
+    <li>
+        <b>Perturbative biology and cellular organization:</b> modeling cellular responses to perturbations
+        and inferring cell states, cell–cell interactions, and tissue organization from multi-omics data.
+    </li>
 </ul>
 
 <p><b>Special Track on Lab-in-the-Loop and Self-Evolving Systems</b></p>
 <p>
-This track focuses on AI systems that learn through interaction with experimental feedback—moving from
-static predictive models toward adaptive, experiment-aware agents. Topics include lab-in-the-loop
-frameworks, active learning with experimental or simulated feedback, and autonomous or self-evolving
-agentic systems that iteratively generate, test, and refine biological hypotheses.
+This track focuses on systems that learn through interaction with experimental feedback.
+Representative topics include, but
+<span style="color:#D2042D; font-weight:bold;">are not limited to</span>:
 </p>
+
+<ul>
+    <li>
+        <b>Active learning with experimental feedback:</b> models that adapt based on wet-lab or
+        simulation outcomes, optimizing experimental design and discovery cycles.
+    </li>
+    <li>
+        <b>Lab-in-the-loop architectures:</b> integration of AI reasoning systems with robotic labs,
+        automated pipelines, and real-time data streams.
+    </li>
+    <li>
+        <b>Self-evolving agentic frameworks:</b> autonomous agents capable of iterative hypothesis
+        generation, testing, and refinement using foundation models and multi-agent coordination.
+    </li>
+</ul>
 
 <p><b>Tiny Papers Track</b></p>
 <p>
-The Tiny Papers Track provides a venue for short (3–4 page) submissions presenting early-stage ideas,
-negative results, position papers, or preliminary findings. This track aims to lower the barrier for
-participation and highlight creative or exploratory directions. AI-generated papers are not permitted
-in this track.
+The Tiny Papers Track provides a venue for short (up to 4-page) submissions presenting
+early-stage ideas, negative results, position papers, or preliminary findings. This track
+aims to lower the barrier for participation and highlight creative or exploratory directions.
+AI-generated papers are not permitted in this track.
 </p>
 
 <p><b>AI-Generated Track</b></p>
 <p>
-MLGenX 2026 introduces a new AI-Generated Track for submissions where AI systems serve as a substantial
-contributor or primary author, under clear human oversight. Papers in this track should align with the
-Main Track or Special Track themes and follow standard ICLR formatting guidelines.
-Submissions must clearly disclose the role of AI systems and adhere to ICLR policies on large language
-model usage and research ethics.
+MLGenX 2026 introduces a new AI-Generated Track for submissions where AI systems serve as a
+substantial contributor or primary author, under clear human oversight. Papers in this track
+should align with the Main Track or Special Track themes and follow standard ICLR formatting
+guidelines. Submissions must clearly disclose the role of AI systems and adhere to ICLR
+policies on large language model usage and research ethics.
 </p>
+
 
 
 <h3 class="blackpar_title">Journal Partnership</h3>
