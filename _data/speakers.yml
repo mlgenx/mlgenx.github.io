@@ -21,7 +21,7 @@
       url: https://scholar.google.com/citations?user=FnlT7s0AAAAJ&hl=en
     - name: James Zou
       affiliation: Stanford University
-      photo: JamesZou.jpeg
+      photo: JamesZou.jpg
       url: https://scholar.google.com/citations?user=23ZXZvEAAAAJ&hl=en
     - name: Kyunghyun Cho
       affiliation: New York University, Genentech
@@ -39,4 +39,5 @@
       affiliation: Isomorphic Labs
       photo: CatherineTong.jpg
       url: https://scholar.google.com/citations?user=nfv_AZoAAAAJ&hl=en
+
 
