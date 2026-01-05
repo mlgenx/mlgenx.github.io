@@ -137,32 +137,6 @@ will not be made public until acceptance.
 
 
 
-<!--
-<h3 class="blackpar_title">Workshop Registration</h3>
-<p>
-Whether you're a seasoned professional or a curious enthusiast, all are welcome to attend! Don't worry if you don't have an accepted paper – participation is open to everyone.</p>
-
-<p> If you have already registered for ICLR, you can join us at the MLGenX workshop. However, if you're solely interested in the workshop, you can still participate in the MLGenX workshop by registering for the "Saturday Workshop 1 Day Pass". Please visit <a href="https://iclr.cc/Register/view-registration">this link</a> to secure your spot. </p>
-
-<p>We look forward to meeting you in Singapore!
-</p> -->
-
-
-<!-- Basic Information
-<p style="font-weight: 400; font-size: 1.5rem; color: #2c3e50;">
-  📢 <strong>MLGenX Workshop</strong> will take place on <strong>Sunday April 27th</strong> in Room <strong>Garnet 212–213</strong>!
-</p> 
--->
-
-
-<!-- Schedule
-<br>
-<h2 class="blackpar_title" id="schedule">Schedule</h2>
-<p>
-{% include schedule.html %}
-</p>  
--->
-
 
 <!-- Speakers 
 <br>
@@ -174,28 +148,7 @@ Whether you're a seasoned professional or a curious enthusiast, all are welcome 
 
 
 
-<!-- Accepted Papers 
-<br>
-<h2 class="blackpar_title" id="papers">Accepted Papers</h2>
-<p>
-{% include spotlight_papers.html %}
-</p>
-<p>
-{% include poster_papers.html %}
-</p>
-<p>
-{% include tiny_papers.html %}
-</p> 
 
-<h3 class="blackpar_title">Camera Ready Instructions</h3>
-<p>
-An email with instructions for uploading camera-ready submissions will go out mid-March 2025. To prepare your camera ready, please use the <a href="https://github.com/Namkyeong/mlgenx.github.io/raw/refs/heads/main/latex_templates/MLGenX_Formatting_Instructions.zip" download>MLGenX 2025 template style</a>.
-</p>
-<ul>
-    <li>The authors can use one additional page beyond the page limit specified during the submission (9 pages for main/special track papers and 5 pages for tiny track papers). This extra page can be used to appropriately address the comments received during the review process.
-    </li>
-</ul> 
--->
 <!--
 <h3 class="blackpar_title">Call for Reviewers</h3>
 <p>
@@ -219,32 +172,6 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <p>
 {% include organizers.html %}
 </p>
-
-<!-- Organizers 
-<h2 class="blackpar_title" id="students">Student Organizers</h2>
-<p>
-{% include students.html %}
-</p>
--->
-
-
-
-
-<!--
-<h2 class="blackpar_title">Sponsor</h2>
-<div class="row">
-    <div class="col">
-        <center>
-            <img src="">
-        </center>
-    </div>
-    <div class="col">
-        <center>
-            <img src="" width="250px">
-        </center>
-    </div>
-</div>-->
-
 
 <!--ends inverted colors-->
 <!-- Default Statcounter code for mlgenx
