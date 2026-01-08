@@ -133,7 +133,7 @@ reviewer comments prior to transfer to the journal.
 <h3 class="blackpar_title">Submission Instructions</h3>
 <p>
 Similar to the main ICLR conference, submissions will be double blind.  
-We use <a href="https://openreview.net/">OpenReview</a> to host papers. There is no strict page limit for submissions to the Main Track or the Special Track.
+We use <a href="https://openreview.net/group?id=ICLR.cc/2026/Workshop/MLGenX">OpenReview</a> to host papers. There is no strict page limit for submissions to the Main Track or the Special Track.
 Submissions to the AI-Generated Track must not exceed 8 pages for the main text,
 and submissions to the Tiny Papers Track must not exceed 4 pages for the main text.
 References and appendices may be of unlimited length.
