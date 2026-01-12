@@ -211,6 +211,14 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 {% include organizers.html %}
 </p>
 
+<!-- acknowledgement -->
+<h2 class="blackpar_title" id="acknowledgement">Acknowledgement</h2>
+<p>
+    In addition to our core organizers, we received invaluable support and guidance from several researchers
+and collaborators:
+{% include acknowledgement.html %}
+</p>
+
 <!--ends inverted colors-->
 <!-- Default Statcounter code for mlgenx
 https://mlgenx-workshop.github.io/ -->
