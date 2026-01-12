@@ -211,12 +211,6 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 {% include organizers.html %}
 </p>
 
-<!-- Area Chairs -->
-<h2 class="blackpar_title" id="Area Chairs">Area Chairs</h2>
-<p>
-{% include areachairs.html %}
-</p>
-
 <!--ends inverted colors-->
 <!-- Default Statcounter code for mlgenx
 https://mlgenx-workshop.github.io/ -->
