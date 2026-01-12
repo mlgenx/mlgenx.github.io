@@ -9,26 +9,30 @@
     - name: Fabian Theis
       photo: fabian.jpg
       url: https://scholar.google.com/citations?user=sqWpn2AAAAAJ&hl=en
+    - name: Mihaela van der Schaar
+      photo: mihaela.jpeg
+      url: https://scholar.google.com/citations?user=DZ3S--MAAAAJ&hl=en
 - num_row: 2
   organizers:
     - name: Arman Hasanzadeh
       photo: arman.jpeg
       url: https://scholar.google.com/citations?user=jjNcpoEAAAAJ&hl=en
-    - name: Mihaela van der Schaar
-      photo: mihaela.jpeg
-      url: https://scholar.google.com/citations?user=DZ3S--MAAAAJ&hl=en
-    - name: Tommaso Biancalani
-      photo: tommaso.jpg
-      url: https://www.gene.com/scientists/our-scientists/tommaso-biancalani
-- num_row: 3
-  organizers:
     - name: Wei Qiu
       photo: wei.jpg
       url: https://scholar.google.com/citations?user=SSQAAlIAAAAJ
-    - name: Aïcha Bentaieb
-      photo: aichabentaieb.jpeg
-      url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
-    - name: Gabriele Scalia
-      photo: gabriele_scalia.jpeg
-      url: https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it
+    - name: Tommaso Biancalani
+      photo: tommaso.jpg
+      url: https://www.gene.com/scientists/our-scientists/tommaso-biancalani
+# - num_row: 3
+#   organizers:
+#     - name: Wei Qiu
+#       photo: wei.jpg
+#       url: https://scholar.google.com/citations?user=SSQAAlIAAAAJ
+    # - name: Aïcha Bentaieb
+    #   photo: aichabentaieb.jpeg
+    #   url: https://scholar.google.com/citations?user=TYN31-cAAAAJ&hl=en
+    # - name: Gabriele Scalia
+    #   photo: gabriele_scalia.jpeg
+    #   url: https://scholar.google.it/citations?user=MxeFvewAAAAJ&hl=it
+
 
