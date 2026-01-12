@@ -212,7 +212,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </p>
 
 <!-- acknowledgement -->
-<h2 class="blackpar_title" id="acknowledgement">Acknowledgement</h2>
+<h2 class="blackpar_title" id="acknowledgements">Acknowledgement</h2>
 <p>
     In addition to our core organizers, we received invaluable support and guidance from several researchers
 and collaborators:
