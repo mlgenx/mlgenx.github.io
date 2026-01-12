@@ -214,7 +214,9 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 <!-- acknowledgement -->
 <h2 class="blackpar_title" id="acknowledgements">Acknowledgement</h2>
 <p>
-{% include acknowledgements.html %}
+We would also like to appreciate Gabriele Scalia and Aicha BenTaieb for their insightful input, ongoing
+collaboration, and continued engagement. We also extend our sincere thanks to Barbara Cheifet, Chief Editor of Nature Biotechnology, for her
+generous help and guidance in establishing the partnership with the journal.
 </p>
 
 <!--ends inverted colors-->
