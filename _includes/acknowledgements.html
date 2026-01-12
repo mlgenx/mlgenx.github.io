@@ -4,47 +4,47 @@
     <div class="row_perso">
     {% assign mod = row.acknowledgements.size | modulo:2 == 0 %}
     {% if mod == 0 %}
-        {% for person in row.acknowledgements %}
+        {% for acknowledgement in row.acknowledgements %}
             <div class="card_perso column_perso">
-              <a href="{{ person.url }}">
-                 <img src="/images/{{ person.photo }}" alt="{{ person.name }}" class="img_card_perso">
+              <a href="{{ acknowledgement.url }}">
+                 <img src="/images/{{ acknowledgement.photo }}" alt="{{ acknowledgement.name }}" class="img_card_perso">
               </a>
               <div class="container_perso">
                 <center>
                 <h6>
-                    {% if person.title %}
-                        <b>{{ person.title }}<br>{{ person.name }}</b>
+                    {% if acknowledgement.title %}
+                        <b>{{ acknowledgement.title }}<br>{{ acknowledgement.name }}</b>
                     {% else %}
-                        <b>{{ person.name }}</b>
+                        <b>{{ acknowledgement.name }}</b>
                     {% endif %}
                     <br>
-                    {{ person.affiliation }}
+                    {{ acknowledgement.affiliation }}
                 </h6>
                 </center>
               </div>
             </div>
         {% endfor %}
     {% else %}
-        {% for person in row.acknowledgements %}
+        {% for acknowledgement in row.acknowledgements %}
             {% if c == 1 %}
                 {% assign style_val = "style='margin-left:13%;'" %}
             {% else %}
                 {% assign style_val = '' %}
             {% endif %}
             <div class="card_perso column_perso" {{ style_val }}>
-              <a href="{{ person.url }}">
-                <img src="/images/{{ person.photo }}" alt="{{ person.name }}" class="img_card_perso">
+              <a href="{{ acknowledgement.url }}">
+                <img src="/images/{{ acknowledgement.photo }}" alt="{{ acknowledgement.name }}" class="img_card_perso">
               </a>
               <div class="container_perso">
                 <center>
                 <h6>
-                    {% if person.title %}
-                        <b>{{ person.title }}<br>{{ person.name }}</b>
+                    {% if acknowledgement.title %}
+                        <b>{{ acknowledgement.title }}<br>{{ acknowledgement.name }}</b>
                     {% else %}
-                        <b>{{ person.name }}</b>
+                        <b>{{ acknowledgement.name }}</b>
                     {% endif %}
                     <br>
-                    {{ person.affiliation }}
+                    {{ acknowledgement.affiliation }}
                 </h6>
                 </center>
               </div>
