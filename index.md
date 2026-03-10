@@ -48,6 +48,7 @@ early-stage ideas, and AI serving as a primary author, MLGenX 2026 aims to highl
 next frontier of target discovery—closing the loop between reasoning, experimentation,
 and adaptation.
 </p>
+-->
 
 <p><b>Main Track</b></p>
 <p>
@@ -166,17 +167,12 @@ and research ethics. AI-generated submissions are not permitted in the Tiny Pape
 Track.
 </p>
 
+<!--
 <p>
 <b>Note:</b>
 Official reviews are anonymous. Unlike the main conference, submissions and reviews
 will not be made public until acceptance.
 </p>
-
-
-
-
-
-
 -->
 
 
