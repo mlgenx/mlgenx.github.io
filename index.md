@@ -32,9 +32,10 @@ Despite rapid advances in data-driven biology, our limited understanding of the 
 <div class="inverted">
 <br>
 
-<!--
+
 <br>
 <!-- Call for Papers -->
+<!--
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 
 <p>
@@ -50,6 +51,7 @@ and adaptation.
 </p>
 -->
 
+<!--
 <p><b>Main Track</b></p>
 <p>
 The Main Track welcomes contributions spanning both <b>machine learning methodology</b> and
@@ -80,7 +82,8 @@ Representative topics include, but
         and inferring cell states, cell–cell interactions, and tissue organization from multi-omics data.
     </li>
 </ul>
-
+-->
+<!--
 <p><b>Special Track on Lab-in-the-Loop and Self-Evolving Systems</b></p>
 <p>
 This track focuses on systems that learn through interaction with experimental feedback.
@@ -102,6 +105,7 @@ Representative topics include, but
         generation, testing, and refinement using foundation models and multi-agent coordination.
     </li>
 </ul>
+-->
 
 <p><b>Tiny Papers Track</b></p>
 <p>
