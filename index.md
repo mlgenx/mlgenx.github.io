@@ -105,7 +105,6 @@ Representative topics include, but
         generation, testing, and refinement using foundation models and multi-agent coordination.
     </li>
 </ul>
--->
 
 <p><b>Tiny Papers Track</b></p>
 <p>
@@ -170,6 +169,7 @@ human contributors and must comply with ICLR policies on large language model us
 and research ethics. AI-generated submissions are not permitted in the Tiny Papers
 Track.
 </p>
+-->
 
 <!--
 <p>
