@@ -193,7 +193,7 @@ All deadlines are 11:59 pm UTC -12h ("Anywhere on Earth"). All authors must have
 </p>
 
 <ul>
-    <li>Main &amp; Special Track Submission Deadline: <del> February 2, 2026 </del> <span style="color: #D2042D"> February 8, 2025 </span> </li>
+    <li>Main &amp; Special Track Submission Deadline: <del> February 2, 2026 <span style="color: #D2042D"> February 8, 2025 </span> </del> </li>
     <li>Tiny Papers Track Submission Deadline: <del> February 8, 2026 </del> </li>
     <li>Acceptance Notification (all tracks): <del> March 1, 2026 </del> </li>
     <li>Camera-Ready Submission Deadline (all tracks): March 27, 2026 </li>
