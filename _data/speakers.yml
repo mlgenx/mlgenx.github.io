@@ -12,10 +12,21 @@
       affiliation: Relation Therapeutics
       photo: sj.jpeg
       url: https://www.linkedin.com/in/sara-jane-dunn-19387848/
+
+ - num_row: 2
+   speakers:
     - name: Gabriele Corso
       affiliation: Boltz
       photo: gabriele.jpg
       url: https://gcorso.github.io/
+    - name: Nick Myerberg
+      affiliation: Braidwell
+      photo: nick.jpg
+      url: https://www.linkedin.com/in/nick-myerberg/
+    - name: Gokchen Eraslan
+      affiliation: Genentech
+      photo: gokchen.jpg
+      url: https://scholar.google.com/citations?user=vEiu33sAAAAJ&hl=en
 
 # - num_row: 2
 #   speakers:
