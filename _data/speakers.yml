@@ -13,8 +13,8 @@
       photo: sj.jpeg
       url: https://www.linkedin.com/in/sara-jane-dunn-19387848/
 
- - num_row: 2
-   speakers:
+- num_row: 2
+  speakers:
     - name: Gabriele Corso
       affiliation: Boltz
       photo: gabriele.jpg
